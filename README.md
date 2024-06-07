@@ -1,0 +1,2 @@
+# Students-Performance
+ Este repositorio contiene el código y los recursos para el análisis del dataset 'Students Performance in Exams', que explora el rendimiento de los estudiantes en matemáticas, lectura y escritura, y examina cómo las características demográficas y socioeconómicas influyen en sus resultados. Incluye scripts para la limpieza de datos, análisis exploratorio, visualizaciones de datos, correlaciones, análisis estadístico y modelado predictivo. Este proyecto busca identificar patrones y proporcionar insights para mejorar la intervención educativa.
