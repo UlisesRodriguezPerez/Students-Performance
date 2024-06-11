@@ -26,7 +26,7 @@ Para ejecutar los scripts y notebooks en este repositorio, necesitarás Python y
 
 Para utilizar este repositorio:
 1. Clona el repositorio.
-2. Instala las dependencias mencionadas.
+2. Instala las dependencias mencionadas: `pip install -r requirements.txt`.
 3. Coloca el dataset en el directorio `data/`.
 4. Ejecuta los notebooks o scripts que desees.
 

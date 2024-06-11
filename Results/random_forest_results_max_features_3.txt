@@ -1,0 +1,202 @@
+Random Forest Regression Analysis
+Max Features for Combination Testing: 3
+Features: ('reading score', 'writing score', 'gender_female'), Estimators: 200, Max Features: sqrt, Max Depth: 10
+MSE: 41.84586836363629, Mean CV MSE: 42.859107294010585
+Sample Comparison:
+     Actual  Predicted
+521      91  69.944366
+737      53  56.821618
+740      80  81.006984
+660      74  77.068691
+411      84  80.114698
+
+Features: ('reading score', 'writing score', 'gender_female'), Estimators: 200, Max Features: log2, Max Depth: 10
+MSE: 41.84586836363629, Mean CV MSE: 42.859107294010585
+Sample Comparison:
+     Actual  Predicted
+521      91  69.944366
+737      53  56.821618
+740      80  81.006984
+660      74  77.068691
+411      84  80.114698
+
+Features: ('reading score', 'writing score', 'gender_female'), Estimators: 100, Max Features: sqrt, Max Depth: 10
+MSE: 42.02373872411808, Mean CV MSE: 43.17011967286595
+Sample Comparison:
+     Actual  Predicted
+521      91  70.354957
+737      53  56.453490
+740      80  80.606267
+660      74  76.872116
+411      84  80.248452
+
+Features: ('reading score', 'writing score', 'gender_female'), Estimators: 100, Max Features: log2, Max Depth: 10
+MSE: 42.02373872411808, Mean CV MSE: 43.17011967286595
+Sample Comparison:
+     Actual  Predicted
+521      91  70.354957
+737      53  56.453490
+740      80  80.606267
+660      74  76.872116
+411      84  80.248452
+
+Features: ('reading score', 'writing score', 'gender_male'), Estimators: 200, Max Features: sqrt, Max Depth: 10
+MSE: 41.913207451060636, Mean CV MSE: 43.18348485042651
+Sample Comparison:
+     Actual  Predicted
+521      91  70.254434
+737      53  57.014484
+740      80  81.824321
+660      74  76.604421
+411      84  80.299005
+
+Features: ('reading score', 'writing score', 'gender_male'), Estimators: 200, Max Features: log2, Max Depth: 10
+MSE: 41.913207451060636, Mean CV MSE: 43.18348485042651
+Sample Comparison:
+     Actual  Predicted
+521      91  70.254434
+737      53  57.014484
+740      80  81.824321
+660      74  76.604421
+411      84  80.299005
+
+Features: ('reading score', 'writing score', 'gender_male'), Estimators: 100, Max Features: sqrt, Max Depth: 10
+MSE: 42.07427997175231, Mean CV MSE: 43.467033721812
+Sample Comparison:
+     Actual  Predicted
+521      91  70.274744
+737      53  57.270629
+740      80  81.983384
+660      74  76.204696
+411      84  80.641355
+
+Features: ('reading score', 'writing score', 'gender_male'), Estimators: 100, Max Features: log2, Max Depth: 10
+MSE: 42.07427997175231, Mean CV MSE: 43.467033721812
+Sample Comparison:
+     Actual  Predicted
+521      91  70.274744
+737      53  57.270629
+740      80  81.983384
+660      74  76.204696
+411      84  80.641355
+
+Features: ('writing score', 'gender_female', 'race/ethnicity_group E'), Estimators: 200, Max Features: None, Max Depth: 10
+MSE: 44.792835588315754, Mean CV MSE: 44.09941066279795
+Sample Comparison:
+     Actual  Predicted
+521      91  71.027369
+737      53  65.241962
+740      80  77.393816
+660      74  74.862781
+411      84  91.942188
+
+Features: ('writing score', 'gender_male', 'race/ethnicity_group E'), Estimators: 200, Max Features: None, Max Depth: 10
+MSE: 44.78847779565684, Mean CV MSE: 44.10314754317136
+Sample Comparison:
+     Actual  Predicted
+521      91  71.027369
+737      53  65.241962
+740      80  77.393816
+660      74  74.862781
+411      84  91.942188
+
+Features: ('writing score', 'gender_female', 'race/ethnicity_group E'), Estimators: 100, Max Features: None, Max Depth: 10
+MSE: 44.80041158880797, Mean CV MSE: 44.185161375080334
+Sample Comparison:
+     Actual  Predicted
+521      91  70.918438
+737      53  64.987990
+740      80  77.382607
+660      74  74.744597
+411      84  91.734333
+
+Features: ('writing score', 'gender_male', 'race/ethnicity_group E'), Estimators: 100, Max Features: None, Max Depth: 10
+MSE: 44.86429295330768, Mean CV MSE: 44.18865850666736
+Sample Comparison:
+     Actual  Predicted
+521      91  70.918438
+737      53  64.987990
+740      80  77.382607
+660      74  74.744597
+411      84  91.734333
+
+Features: ('reading score', 'writing score', 'gender_male'), Estimators: 200, Max Features: sqrt, Max Depth: None
+MSE: 45.39499433784904, Mean CV MSE: 44.23821627062644
+Sample Comparison:
+     Actual  Predicted
+521      91  69.275250
+737      53  56.902500
+740      80  82.468750
+660      74  75.995750
+411      84  79.517917
+
+Features: ('reading score', 'writing score', 'gender_male'), Estimators: 200, Max Features: log2, Max Depth: None
+MSE: 45.39499433784904, Mean CV MSE: 44.23821627062644
+Sample Comparison:
+     Actual  Predicted
+521      91  69.275250
+737      53  56.902500
+740      80  82.468750
+660      74  75.995750
+411      84  79.517917
+
+Features: ('writing score', 'gender_male', 'race/ethnicity_group E'), Estimators: 200, Max Features: None, Max Depth: 15
+MSE: 45.01786146119528, Mean CV MSE: 44.24162800119966
+Sample Comparison:
+     Actual  Predicted
+521      91  71.034988
+737      53  65.365184
+740      80  77.457786
+660      74  74.834584
+411      84  91.986810
+
+Features: ('writing score', 'gender_male', 'race/ethnicity_group E'), Estimators: 200, Max Features: None, Max Depth: None
+MSE: 45.01786146119528, Mean CV MSE: 44.24167227665811
+Sample Comparison:
+     Actual  Predicted
+521      91  71.034988
+737      53  65.365184
+740      80  77.457786
+660      74  74.834584
+411      84  91.986810
+
+Features: ('reading score', 'writing score', 'gender_male'), Estimators: 200, Max Features: sqrt, Max Depth: 15
+MSE: 45.25444212827119, Mean CV MSE: 44.24305703478241
+Sample Comparison:
+     Actual  Predicted
+521      91  69.325667
+737      53  56.702500
+740      80  82.222917
+660      74  76.863667
+411      84  79.245833
+
+Features: ('reading score', 'writing score', 'gender_male'), Estimators: 200, Max Features: log2, Max Depth: 15
+MSE: 45.25444212827119, Mean CV MSE: 44.24305703478241
+Sample Comparison:
+     Actual  Predicted
+521      91  69.325667
+737      53  56.702500
+740      80  82.222917
+660      74  76.863667
+411      84  79.245833
+
+Features: ('writing score', 'gender_female', 'race/ethnicity_group E'), Estimators: 200, Max Features: None, Max Depth: 15
+MSE: 45.02223703566791, Mean CV MSE: 44.25662268119976
+Sample Comparison:
+     Actual  Predicted
+521      91  71.034988
+737      53  65.365184
+740      80  77.457786
+660      74  74.834584
+411      84  91.986810
+
+Features: ('writing score', 'gender_female', 'race/ethnicity_group E'), Estimators: 200, Max Features: None, Max Depth: None
+MSE: 45.02828758427902, Mean CV MSE: 44.256667128533195
+Sample Comparison:
+     Actual  Predicted
+521      91  71.034988
+737      53  65.365184
+740      80  77.457786
+660      74  74.834584
+411      84  91.986810
+

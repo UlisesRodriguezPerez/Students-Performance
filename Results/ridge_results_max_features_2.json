@@ -1,0 +1,2497 @@
+[
+    {
+        "features": [
+            "reading score",
+            "parental level of education_high school"
+        ],
+        "alpha": 0.01,
+        "mse": 77.74499394402035,
+        "mean_cv_mse": 76.18536228894486,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.42604017848447,
+                63.50136925173762,
+                69.42500407609901,
+                72.80993826144838,
+                77.88733953947244
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_high school"
+        ],
+        "alpha": 0.1,
+        "mse": 77.74543999324499,
+        "mean_cv_mse": 76.18521321282624,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.4245434070373,
+                63.50182074744788,
+                69.42477367830418,
+                72.80931821022206,
+                77.88613500809889
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_high school"
+        ],
+        "alpha": 1,
+        "mse": 77.75013065550397,
+        "mean_cv_mse": 76.1840642342255,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.40959374324105,
+                63.506328543817645,
+                69.42247136361584,
+                72.80312440350052,
+                77.87410396332754
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group A"
+        ],
+        "alpha": 0.001,
+        "mse": 77.91870495621036,
+        "mean_cv_mse": 76.17609837495507,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.40346336477667,
+                63.467069870614495,
+                69.39480759357126,
+                72.78208629240369,
+                77.86300434065235
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group A"
+        ],
+        "alpha": 0.01,
+        "mse": 77.91873503328252,
+        "mean_cv_mse": 76.17608021152212,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.40330904278579,
+                63.467107060750884,
+                69.3947777544631,
+                72.78201815087009,
+                77.86287874548054
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group A"
+        ],
+        "alpha": 0.1,
+        "mse": 77.91903806302668,
+        "mean_cv_mse": 76.17590196235119,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.40176601209183,
+                63.46747891200799,
+                69.39447939703733,
+                72.7813368170541,
+                77.86162294707925
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group A"
+        ],
+        "alpha": 1,
+        "mse": 77.92229369412999,
+        "mean_cv_mse": 76.17445691393559,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.38635460315017,
+                63.47119242069125,
+                69.39149918455188,
+                72.77453162104365,
+                77.84908027578132
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_some high school"
+        ],
+        "alpha": 10,
+        "mse": 78.00772724744837,
+        "mean_cv_mse": 76.12746838124221,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.41024872071296,
+                63.717269999014896,
+                69.55981255160921,
+                72.89840829594883,
+                77.90630191245825
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_associate's degree"
+        ],
+        "alpha": 10,
+        "mse": 77.81294767387264,
+        "mean_cv_mse": 76.12242037478565,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.28441035065072,
+                63.51268171885962,
+                69.3645751988163,
+                72.70851433022013,
+                77.72442302732586
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_some high school"
+        ],
+        "alpha": 0.001,
+        "mse": 77.93405819468482,
+        "mean_cv_mse": 76.11734798768579,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.58083180265302,
+                63.6790408446731,
+                69.59466767996608,
+                72.97502587156205,
+                78.04556315895603
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_some high school"
+        ],
+        "alpha": 0.01,
+        "mse": 77.93410268723808,
+        "mean_cv_mse": 76.1173241565909,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.58067637777104,
+                63.67907572452545,
+                69.5946359531614,
+                72.97495608381053,
+                78.0454362797842
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_some high school"
+        ],
+        "alpha": 0.1,
+        "mse": 77.93454982905877,
+        "mean_cv_mse": 76.11708921241889,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.57912231800557,
+                63.67942447582752,
+                69.59431872058984,
+                72.97425828902544,
+                78.04416764167887
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_some high school"
+        ],
+        "alpha": 1,
+        "mse": 77.93924231865562,
+        "mean_cv_mse": 76.1150753927993,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.56360060256162,
+                63.682907273116655,
+                69.59114993842239,
+                72.96728860431139,
+                78.03149660314487
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_associate's degree"
+        ],
+        "alpha": 0.001,
+        "mse": 77.74104726471255,
+        "mean_cv_mse": 76.10516497611448,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.439616630771,
+                63.48037599556648,
+                69.40569405410393,
+                72.79159008755391,
+                77.87043413772888
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_associate's degree"
+        ],
+        "alpha": 0.01,
+        "mse": 77.74108970053047,
+        "mean_cv_mse": 76.10514758178908,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.43947537299907,
+                63.48040538192668,
+                69.40565651997441,
+                72.79151431314455,
+                77.87030100289974
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_associate's degree"
+        ],
+        "alpha": 0.1,
+        "mse": 77.7415163227683,
+        "mean_cv_mse": 76.1049770044676,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.43806295137988,
+                63.4806992146642,
+                69.40528123127329,
+                72.79075666933562,
+                77.86896982642912
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_associate's degree"
+        ],
+        "alpha": 1,
+        "mse": 77.74600837593349,
+        "mean_cv_mse": 76.1036067625167,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.42395432798924,
+                63.48363445876905,
+                69.40153359632285,
+                72.7831902463536,
+                77.85567522139971
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score"
+        ],
+        "alpha": 10,
+        "mse": 77.84512952323047,
+        "mean_cv_mse": 76.07664174630195,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.24555551125397,
+                63.52399210443856,
+                69.37653929682395,
+                72.72085197818703,
+                77.73732100023165
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score"
+        ],
+        "alpha": 0.001,
+        "mse": 77.75954595019223,
+        "mean_cv_mse": 76.06020738548422,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.4174044287016,
+                63.48684264250324,
+                69.41253926767267,
+                72.79865162491234,
+                77.87782016077185
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score"
+        ],
+        "alpha": 0.01,
+        "mse": 77.75960107585831,
+        "mean_cv_mse": 76.06018934210157,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.41724781767192,
+                63.48687649791282,
+                69.4125064598285,
+                72.79858072378032,
+                77.87769211970806
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score"
+        ],
+        "alpha": 0.1,
+        "mse": 77.76015455840978,
+        "mean_cv_mse": 76.06001226421228,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.41568190115699,
+                63.48721501011778,
+                69.41217842198151,
+                72.79787180018934,
+                77.8764118675011
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score"
+        ],
+        "alpha": 1,
+        "mse": 77.76591140958324,
+        "mean_cv_mse": 76.05857602846712,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.4000420900321,
+                63.49059594830866,
+                69.40890209791186,
+                72.79079132625655,
+                77.86362516877358
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_master's degree"
+        ],
+        "alpha": 10,
+        "mse": 78.0367160690732,
+        "mean_cv_mse": 75.95519509703904,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.40028961051632,
+                63.634641423941304,
+                69.50261828924256,
+                72.85574792655757,
+                77.88544238253007
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_master's degree"
+        ],
+        "alpha": 0.001,
+        "mse": 77.93688496489638,
+        "mean_cv_mse": 75.93914461021733,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.57792586237875,
+                63.601194020034676,
+                69.5430501648551,
+                72.93839653332391,
+                78.03141608602714
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_master's degree"
+        ],
+        "alpha": 0.01,
+        "mse": 77.9369534826544,
+        "mean_cv_mse": 75.93912570073302,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.5777639243896,
+                63.60122447720895,
+                69.54301328372217,
+                72.9383211731583,
+                78.0312830073125
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_master's degree"
+        ],
+        "alpha": 0.1,
+        "mse": 77.93764082873825,
+        "mean_cv_mse": 75.93894001647341,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.57614475017877,
+                63.601529013715435,
+                69.54264452147761,
+                72.93756766877027,
+                78.02995238970928
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_master's degree"
+        ],
+        "alpha": 1,
+        "mse": 77.94473058771271,
+        "mean_cv_mse": 75.9374231497166,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.55997354970663,
+                63.604570859262736,
+                69.5389618009181,
+                72.93004233900687,
+                78.01666314614005
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group B"
+        ],
+        "alpha": 10,
+        "mse": 77.59651167478754,
+        "mean_cv_mse": 75.92833634702117,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.46016391232602,
+                62.4236822495247,
+                69.62912759488556,
+                72.96175415409802,
+                77.96069399291669
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group B"
+        ],
+        "alpha": 0.001,
+        "mse": 77.49476844941918,
+        "mean_cv_mse": 75.90853762876975,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.62935434078068,
+                62.397242407628006,
+                69.66257398132362,
+                73.03696793807964,
+                78.09855887321366
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group B"
+        ],
+        "alpha": 0.01,
+        "mse": 77.49483830062871,
+        "mean_cv_mse": 75.90852288085605,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.62920020092965,
+                62.397266228238074,
+                69.66254356285667,
+                73.0368994514945,
+                78.09843328445126
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group B"
+        ],
+        "alpha": 0.1,
+        "mse": 77.49553902121012,
+        "mean_cv_mse": 75.90837873116658,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.62765898830048,
+                62.3975044324331,
+                69.66223940958567,
+                73.03621466457484,
+                78.0971775470586
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group B"
+        ],
+        "alpha": 1,
+        "mse": 77.5027665071711,
+        "mean_cv_mse": 75.90726912817101,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.61226542739854,
+                62.399886280601045,
+                69.65920101357479,
+                73.02937467936671,
+                78.08463517805458
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_some college"
+        ],
+        "alpha": 10,
+        "mse": 78.46555802061978,
+        "mean_cv_mse": 75.88819401034476,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.92562455313931,
+                64.6094869571803,
+                69.056823186955,
+                73.80616503625933,
+                78.82253489757517
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_some college"
+        ],
+        "alpha": 0.001,
+        "mse": 78.40140869635695,
+        "mean_cv_mse": 75.8755880522707,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.09350497612773,
+                64.58579128889379,
+                69.08886004467197,
+                73.8974139232025,
+                78.97648081464362
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_some college"
+        ],
+        "alpha": 0.01,
+        "mse": 78.40144413722489,
+        "mean_cv_mse": 75.87556624068526,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.0933519813649,
+                64.58581288473701,
+                69.08883084816047,
+                73.89733076667923,
+                78.9763405204659
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_some college"
+        ],
+        "alpha": 0.1,
+        "mse": 78.40180081130914,
+        "mean_cv_mse": 75.87535151396379,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.09182222307811,
+                64.58602881631973,
+                69.08853891920862,
+                73.89649930420929,
+                78.97493775214905
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_some college"
+        ],
+        "alpha": 1,
+        "mse": 78.40559352243848,
+        "mean_cv_mse": 75.87354209642169,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.07654355073936,
+                64.58818545056037,
+                69.08562324150587,
+                73.8881949429887,
+                78.96092739340416
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group E"
+        ],
+        "alpha": 100,
+        "mse": 77.1445636170556,
+        "mean_cv_mse": 75.60724554782367,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                77.9419220221743,
+                63.14803438144064,
+                68.32589505569742,
+                71.28467258384416,
+                80.67871536171218
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score"
+        ],
+        "alpha": 100,
+        "mse": 78.91829318557826,
+        "mean_cv_mse": 75.58009319224989,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.21010156549634,
+                66.51804537346408,
+                69.26040805440834,
+                71.37823612095492,
+                75.78167913869943
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group C"
+        ],
+        "alpha": 10,
+        "mse": 76.54252199331592,
+        "mean_cv_mse": 75.41260233362759,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                78.7316644554946,
+                64.24933143649137,
+                70.09614898272974,
+                71.21432761033098,
+                78.44874547735598
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group C"
+        ],
+        "alpha": 0.001,
+        "mse": 76.43997373243482,
+        "mean_cv_mse": 75.40258525107043,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                78.88694336575374,
+                64.22007632098526,
+                70.13990884178155,
+                71.27573012472993,
+                78.59681244291912
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group C"
+        ],
+        "alpha": 0.01,
+        "mse": 76.4400443865853,
+        "mean_cv_mse": 75.40256112274747,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                78.88680182879756,
+                64.22010299525435,
+                70.1398689759305,
+                71.27567413935681,
+                78.59667751975357
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group C"
+        ],
+        "alpha": 0.1,
+        "mse": 76.44075312787577,
+        "mean_cv_mse": 75.40232322689982,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                78.88538663704135,
+                64.22036970361455,
+                70.13947036536253,
+                71.27511435765109,
+                78.59532845357394
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group C"
+        ],
+        "alpha": 1,
+        "mse": 76.44805996071057,
+        "mean_cv_mse": 75.40028194736286,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                78.87125247751159,
+                64.22303335859297,
+                70.1354890481314,
+                71.26952373381931,
+                78.5818543189006
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score"
+        ],
+        "alpha": 0.001,
+        "mse": 77.24300081479794,
+        "mean_cv_mse": 74.66858701201753,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.18551090328312,
+                65.68498289504977,
+                69.44210669157827,
+                72.01609410608602,
+                76.8282532736695
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score"
+        ],
+        "alpha": 0.01,
+        "mse": 77.24320422466279,
+        "mean_cv_mse": 74.66854301576848,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.18537601787936,
+                65.68527522730629,
+                69.44208800935712,
+                72.01595002446562,
+                76.8280376308962
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score"
+        ],
+        "alpha": 0.1,
+        "mse": 77.2452375046107,
+        "mean_cv_mse": 74.66810962187442,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.18402881849141,
+                65.68819032446761,
+                69.44190124753986,
+                72.0145124391687,
+                76.82588570587508
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score"
+        ],
+        "alpha": 10,
+        "mse": 77.45656498165954,
+        "mean_cv_mse": 74.6671293232038,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.05026757375481,
+                65.93769716369272,
+                69.42190534894486,
+                71.88437205983902,
+                76.62821029194184
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score"
+        ],
+        "alpha": 1,
+        "mse": 77.2654829746764,
+        "mean_cv_mse": 74.66439825498517,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.17071786970463,
+                65.71654138498863,
+                69.44003953139527,
+                72.00045083908223,
+                76.80480443594337
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "lunch_standard"
+        ],
+        "alpha": 10,
+        "mse": 82.51169460809561,
+        "mean_cv_mse": 74.58661664051667,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.93432897034572,
+                66.40961904709336,
+                70.9814718835937,
+                66.40961904709336,
+                75.4579004269697
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "lunch_free/reduced"
+        ],
+        "alpha": 10,
+        "mse": 82.51169460809561,
+        "mean_cv_mse": 74.58661664051667,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.93432897034572,
+                66.40961904709336,
+                70.9814718835937,
+                66.40961904709336,
+                75.4579004269697
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "lunch_standard"
+        ],
+        "alpha": 0.001,
+        "mse": 82.39156113123576,
+        "mean_cv_mse": 74.57244809670343,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.0767935414663,
+                66.45984028167932,
+                71.01091525402015,
+                66.45984028167932,
+                75.54385439774322
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "lunch_free/reduced"
+        ],
+        "alpha": 0.001,
+        "mse": 82.39156113123576,
+        "mean_cv_mse": 74.57244809670343,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.0767935414663,
+                66.45984028167932,
+                71.01091525402015,
+                66.45984028167932,
+                75.54385439774322
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "lunch_standard"
+        ],
+        "alpha": 0.01,
+        "mse": 82.39165135161147,
+        "mean_cv_mse": 74.57243224518228,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.07666389988515,
+                66.4597938536773,
+                71.0108887182381,
+                66.4597938536773,
+                75.54377630906163
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "lunch_free/reduced"
+        ],
+        "alpha": 0.01,
+        "mse": 82.39165135161149,
+        "mean_cv_mse": 74.57243224518228,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.07666389988515,
+                66.4597938536773,
+                71.0108887182381,
+                66.4597938536773,
+                75.54377630906163
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "lunch_standard"
+        ],
+        "alpha": 0.1,
+        "mse": 82.39255537768136,
+        "mean_cv_mse": 74.57227665556834,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.07536762547238,
+                66.45932969747014,
+                71.01062336345115,
+                66.45932969747014,
+                75.54299549446176
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "lunch_free/reduced"
+        ],
+        "alpha": 0.1,
+        "mse": 82.39255537768139,
+        "mean_cv_mse": 74.57227665556834,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.07536762547238,
+                66.45932969747014,
+                71.01062336345115,
+                66.45932969747014,
+                75.54299549446176
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "lunch_standard"
+        ],
+        "alpha": 1,
+        "mse": 82.40177738232586,
+        "mean_cv_mse": 74.57101238026696,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.0624190048373,
+                66.45470049125807,
+                71.00797012250872,
+                66.45470049125807,
+                75.53519456367302
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "lunch_free/reduced"
+        ],
+        "alpha": 1,
+        "mse": 82.40177738232588,
+        "mean_cv_mse": 74.57101238026696,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.0624190048373,
+                66.45470049125807,
+                71.00797012250872,
+                66.45470049125807,
+                75.53519456367302
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group E"
+        ],
+        "alpha": 10,
+        "mse": 74.39533075489577,
+        "mean_cv_mse": 73.1059523873932,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.26350589519427,
+                62.83479991150083,
+                68.58484700579353,
+                71.87058820253222,
+                81.91125241072756
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group E"
+        ],
+        "alpha": 0.001,
+        "mse": 74.27001456535214,
+        "mean_cv_mse": 73.0928607148322,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.42966188326521,
+                62.79642555383474,
+                68.6180582691354,
+                71.9447055350215,
+                82.06065359667127
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group E"
+        ],
+        "alpha": 0.01,
+        "mse": 74.27010669345071,
+        "mean_cv_mse": 73.09284062419681,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.42951035849022,
+                62.7964604474834,
+                68.61802791633579,
+                71.94463789853715,
+                82.06051791208152
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group E"
+        ],
+        "alpha": 0.1,
+        "mse": 74.27103007504671,
+        "mean_cv_mse": 73.09264297502527,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.42799530848549,
+                62.79680934861861,
+                68.61772443457201,
+                71.94396162654539,
+                82.05916118702305
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group E"
+        ],
+        "alpha": 1,
+        "mse": 74.28047341358148,
+        "mean_cv_mse": 73.09099118653175,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.41286455663392,
+                62.80029482831893,
+                68.61469423322917,
+                71.93720817889218,
+                82.0456060109941
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "alpha": 100,
+        "mse": 76.69809508529525,
+        "mean_cv_mse": 71.36898628197943,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.19505404510166,
+                60.23296620099372,
+                70.92718590665305,
+                68.0750084719887,
+                78.0563152439212
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced"
+        ],
+        "alpha": 100,
+        "mse": 76.69809508529525,
+        "mean_cv_mse": 71.36898628197943,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.19505404510166,
+                60.23296620099372,
+                70.92718590665305,
+                68.0750084719887,
+                78.0563152439212
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "alpha": 10,
+        "mse": 74.23279283074022,
+        "mean_cv_mse": 69.07329475085778,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.5140816412583,
+                59.90463810918631,
+                71.22392369613027,
+                68.61169483198695,
+                79.13942980776721
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced"
+        ],
+        "alpha": 10,
+        "mse": 74.23279283074022,
+        "mean_cv_mse": 69.07329475085778,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.5140816412583,
+                59.9046381091863,
+                71.22392369613027,
+                68.61169483198694,
+                79.13942980776721
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "alpha": 0.001,
+        "mse": 74.12160204226393,
+        "mean_cv_mse": 69.0656975318523,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.67700839702934,
+                59.868806187384315,
+                71.25834358975867,
+                68.68459948584412,
+                79.27270113381303
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced"
+        ],
+        "alpha": 0.001,
+        "mse": 74.12160204226393,
+        "mean_cv_mse": 69.0656975318523,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.67700839702934,
+                59.868806187384315,
+                71.25834358975867,
+                68.68459948584412,
+                79.27270113381303
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "alpha": 0.01,
+        "mse": 74.12168347348323,
+        "mean_cv_mse": 69.06567459506446,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.67686010310734,
+                59.86883831164951,
+                71.25831249264559,
+                68.68453244357869,
+                79.27257988530847
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced"
+        ],
+        "alpha": 0.01,
+        "mse": 74.12168347348323,
+        "mean_cv_mse": 69.06567459506446,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.67686010310734,
+                59.86883831164951,
+                71.25831249264559,
+                68.68453244357869,
+                79.27257988530847
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "alpha": 0.1,
+        "mse": 74.12249968143554,
+        "mean_cv_mse": 69.06544827057216,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.67537732881854,
+                59.8691595678103,
+                71.25800153282036,
+                68.68386216442416,
+                79.27136752974204
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced"
+        ],
+        "alpha": 0.1,
+        "mse": 74.12249968143554,
+        "mean_cv_mse": 69.06544827057216,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.67537732881854,
+                59.8691595678103,
+                71.25800153282036,
+                68.68386216442416,
+                79.27136752974204
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "alpha": 1,
+        "mse": 74.13085084875219,
+        "mean_cv_mse": 69.06348840746132,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.66056605970654,
+                59.872373471489695,
+                71.25489306721978,
+                68.67717369590157,
+                79.25925690759422
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced"
+        ],
+        "alpha": 1,
+        "mse": 74.13085084875219,
+        "mean_cv_mse": 69.06348840746132,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.66056605970654,
+                59.872373471489695,
+                71.25489306721978,
+                68.67717369590157,
+                79.25925690759422
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "alpha": 100,
+        "mse": 43.36163348150781,
+        "mean_cv_mse": 49.13879016344614,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.5838499047959,
+                59.026547434362314,
+                74.3765205581552,
+                77.68798105224192,
+                82.655171793372
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "alpha": 100,
+        "mse": 43.36163348150781,
+        "mean_cv_mse": 49.13879016344614,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.5838499047959,
+                59.026547434362314,
+                74.3765205581552,
+                77.68798105224192,
+                82.655171793372
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "alpha": 100,
+        "mse": 43.127321622214666,
+        "mean_cv_mse": 45.26591328875885,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.93777547813909,
+                65.0196374691453,
+                75.10158700831661,
+                75.91232682731605,
+                79.96602592231324
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "alpha": 100,
+        "mse": 43.127321622214666,
+        "mean_cv_mse": 45.26591328875885,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.93777547813909,
+                65.0196374691453,
+                75.10158700831661,
+                75.91232682731605,
+                79.96602592231324
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "alpha": 10,
+        "mse": 39.38666664841969,
+        "mean_cv_mse": 44.54910564914336,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.48456193172073,
+                57.761952964596006,
+                75.72669363131672,
+                79.47121542474167,
+                85.08799811487908
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "alpha": 10,
+        "mse": 39.38666664841969,
+        "mean_cv_mse": 44.54910564914336,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.48456193172073,
+                57.761952964596006,
+                75.72669363131672,
+                79.47121542474167,
+                85.08799811487908
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "alpha": 0.001,
+        "mse": 39.30070317297823,
+        "mean_cv_mse": 44.50714341263556,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.59638242439601,
+                57.59611001897192,
+                75.90391841831403,
+                79.70397289939885,
+                85.40405462102606
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "alpha": 0.001,
+        "mse": 39.30070317297823,
+        "mean_cv_mse": 44.50714341263556,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.59638242439601,
+                57.59611001897192,
+                75.90391841831403,
+                79.70397289939885,
+                85.40405462102606
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "alpha": 0.01,
+        "mse": 39.300737179454146,
+        "mean_cv_mse": 44.50712013070192,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.59628058690866,
+                57.59626197037527,
+                75.90375602291324,
+                79.70375974621992,
+                85.40376533117994
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "alpha": 0.01,
+        "mse": 39.300737179454146,
+        "mean_cv_mse": 44.50712013070192,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.59628058690866,
+                57.59626197037527,
+                75.90375602291324,
+                79.70375974621992,
+                85.40376533117994
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "alpha": 0.1,
+        "mse": 39.30108168206177,
+        "mean_cv_mse": 44.50689360719167,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.59526233133394,
+                57.59778121445478,
+                75.9021323589666,
+                79.70162858234244,
+                85.40087291740618
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "alpha": 0.1,
+        "mse": 39.30108168206177,
+        "mean_cv_mse": 44.50689360719167,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.59526233133394,
+                57.59778121445478,
+                75.9021323589666,
+                79.70162858234244,
+                85.40087291740618
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "alpha": 1,
+        "mse": 39.30496904797619,
+        "mean_cv_mse": 44.50525540664869,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.5850916904173,
+                57.612946706829774,
+                75.8859246750169,
+                79.6803536717344,
+                85.37199716681066
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "alpha": 1,
+        "mse": 39.30496904797619,
+        "mean_cv_mse": 44.50525540664869,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.5850916904173,
+                57.612946706829774,
+                75.8859246750169,
+                79.6803536717344,
+                85.37199716681066
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "alpha": 10,
+        "mse": 38.66729314728673,
+        "mean_cv_mse": 39.87574154014603,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.6245150413884,
+                64.46005663299084,
+                76.69655896146843,
+                77.62060063495912,
+                82.24080900241255
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "alpha": 10,
+        "mse": 38.66729314728673,
+        "mean_cv_mse": 39.87574154014603,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.6245150413884,
+                64.46005663299084,
+                76.69655896146843,
+                77.62060063495912,
+                82.24080900241255
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "alpha": 0.001,
+        "mse": 38.581892965381016,
+        "mean_cv_mse": 39.81697600189022,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.70920078128384,
+                64.3831067923497,
+                76.90827403996119,
+                77.84700985713702,
+                82.54068894301618
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "alpha": 0.001,
+        "mse": 38.581892965381016,
+        "mean_cv_mse": 39.81697600189022,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.70920078128384,
+                64.3831067923497,
+                76.90827403996119,
+                77.84700985713702,
+                82.54068894301618
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "alpha": 0.01,
+        "mse": 38.581918575023764,
+        "mean_cv_mse": 39.81695625486063,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.709123711942,
+                64.38317765467,
+                76.90807978980591,
+                77.84680215864881,
+                82.54041400286336
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "alpha": 0.01,
+        "mse": 38.581918575023764,
+        "mean_cv_mse": 39.81695625486063,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.709123711942,
+                64.38317765467,
+                76.90807978980591,
+                77.84680215864881,
+                82.54041400286336
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "alpha": 0.1,
+        "mse": 38.58217993124157,
+        "mean_cv_mse": 39.81676630190336,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.70835310322042,
+                64.38388611608583,
+                76.90613766047414,
+                77.84472556839548,
+                82.5376651080021
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "alpha": 0.1,
+        "mse": 38.58217993124157,
+        "mean_cv_mse": 39.81676630190336,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.70835310322042,
+                64.38388611608583,
+                76.90613766047414,
+                77.84472556839548,
+                82.5376651080021
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "alpha": 1,
+        "mse": 38.58531761053724,
+        "mean_cv_mse": 39.815615193047186,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.70065547543882,
+                64.39095458410142,
+                76.88675351960205,
+                77.82399905517818,
+                82.51022673305883
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "alpha": 1,
+        "mse": 38.58531761053724,
+        "mean_cv_mse": 39.815615193047186,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.70065547543882,
+                64.39095458410142,
+                76.88675351960205,
+                77.82399905517818,
+                82.51022673305883
+            ]
+        }
+    }
+]

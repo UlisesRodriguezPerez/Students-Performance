@@ -1,0 +1,2702 @@
+[
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced"
+        ],
+        "n_estimators": 200,
+        "max_features": "sqrt",
+        "max_depth": null,
+        "mse": 78.43378999069246,
+        "mean_cv_mse": 83.67574294334763,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.03545130563876,
+                62.374886156563605,
+                71.90401539499695,
+                71.20740836940837,
+                77.11952448939952
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced"
+        ],
+        "n_estimators": 200,
+        "max_features": "sqrt",
+        "max_depth": 15,
+        "mse": 78.43378999069246,
+        "mean_cv_mse": 83.67574294334763,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.03545130563876,
+                62.374886156563605,
+                71.90401539499695,
+                71.20740836940837,
+                77.11952448939952
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "n_estimators": 200,
+        "max_features": "log2",
+        "max_depth": null,
+        "mse": 78.43467709366146,
+        "mean_cv_mse": 83.66484295835828,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.03545130563876,
+                62.374886156563605,
+                71.90401539499695,
+                71.20740836940837,
+                77.11952448939952
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "n_estimators": 200,
+        "max_features": "log2",
+        "max_depth": 15,
+        "mse": 78.43467709366146,
+        "mean_cv_mse": 83.66484295835828,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.03545130563876,
+                62.374886156563605,
+                71.90401539499695,
+                71.20740836940837,
+                77.11952448939952
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "n_estimators": 200,
+        "max_features": "sqrt",
+        "max_depth": null,
+        "mse": 78.43467709366146,
+        "mean_cv_mse": 83.66484295835828,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.03545130563876,
+                62.374886156563605,
+                71.90401539499695,
+                71.20740836940837,
+                77.11952448939952
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "n_estimators": 200,
+        "max_features": "sqrt",
+        "max_depth": 15,
+        "mse": 78.43467709366146,
+        "mean_cv_mse": 83.66484295835828,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.03545130563876,
+                62.374886156563605,
+                71.90401539499695,
+                71.20740836940837,
+                77.11952448939952
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced"
+        ],
+        "n_estimators": 200,
+        "max_features": "log2",
+        "max_depth": 10,
+        "mse": 78.37629607404286,
+        "mean_cv_mse": 83.63492049664532,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.03378463897211,
+                62.386190504389695,
+                71.89831510259927,
+                71.2077471709577,
+                77.13063796717374
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced"
+        ],
+        "n_estimators": 200,
+        "max_features": "sqrt",
+        "max_depth": 10,
+        "mse": 78.37629607404286,
+        "mean_cv_mse": 83.63492049664532,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.03378463897211,
+                62.386190504389695,
+                71.89831510259927,
+                71.2077471709577,
+                77.13063796717374
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "n_estimators": 200,
+        "max_features": "log2",
+        "max_depth": 10,
+        "mse": 78.40149783192265,
+        "mean_cv_mse": 83.62152696133762,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.03378463897211,
+                62.386190504389695,
+                71.89831510259927,
+                71.18816383762437,
+                77.12361415764993
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "n_estimators": 200,
+        "max_features": "sqrt",
+        "max_depth": 10,
+        "mse": 78.40149783192265,
+        "mean_cv_mse": 83.62152696133762,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.03378463897211,
+                62.386190504389695,
+                71.89831510259927,
+                71.18816383762437,
+                77.12361415764993
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "n_estimators": 100,
+        "max_features": null,
+        "max_depth": null,
+        "mse": 77.25903946934443,
+        "mean_cv_mse": 83.5641611234764,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.91481005106003,
+                62.48104911265205,
+                72.08136278564652,
+                71.43201911976911,
+                77.1039142801643
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "n_estimators": 100,
+        "max_features": null,
+        "max_depth": 15,
+        "mse": 77.25903946934443,
+        "mean_cv_mse": 83.5641611234764,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.91481005106003,
+                62.48104911265205,
+                72.08136278564652,
+                71.43201911976911,
+                77.1039142801643
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced"
+        ],
+        "n_estimators": 100,
+        "max_features": null,
+        "max_depth": null,
+        "mse": 77.25903946934443,
+        "mean_cv_mse": 83.55926297476609,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.91481005106003,
+                62.48104911265205,
+                72.08136278564652,
+                71.43201911976911,
+                77.1039142801643
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced"
+        ],
+        "n_estimators": 100,
+        "max_features": null,
+        "max_depth": 15,
+        "mse": 77.25903946934443,
+        "mean_cv_mse": 83.55926297476609,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.91481005106003,
+                62.48104911265205,
+                72.08136278564652,
+                71.43201911976911,
+                77.1039142801643
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced"
+        ],
+        "n_estimators": 100,
+        "max_features": null,
+        "max_depth": 10,
+        "mse": 77.18881190129541,
+        "mean_cv_mse": 83.49763585801556,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.91481005106003,
+                62.50531895392189,
+                72.07344173301495,
+                71.42914033189032,
+                77.11444768732562
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "n_estimators": 100,
+        "max_features": null,
+        "max_depth": 10,
+        "mse": 77.18881190129541,
+        "mean_cv_mse": 83.496084432004,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.91481005106003,
+                62.50531895392189,
+                72.07344173301495,
+                71.42914033189032,
+                77.11444768732562
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced"
+        ],
+        "n_estimators": 100,
+        "max_features": "log2",
+        "max_depth": null,
+        "mse": 78.99479411917338,
+        "mean_cv_mse": 83.41010937201186,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.91481005106003,
+                62.48104911265205,
+                72.08136278564652,
+                71.43201911976911,
+                77.1039142801643
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced"
+        ],
+        "n_estimators": 100,
+        "max_features": "log2",
+        "max_depth": 15,
+        "mse": 78.99479411917338,
+        "mean_cv_mse": 83.41010937201186,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.91481005106003,
+                62.48104911265205,
+                72.08136278564652,
+                71.43201911976911,
+                77.1039142801643
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced"
+        ],
+        "n_estimators": 100,
+        "max_features": "sqrt",
+        "max_depth": null,
+        "mse": 78.99479411917338,
+        "mean_cv_mse": 83.41010937201186,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.91481005106003,
+                62.48104911265205,
+                72.08136278564652,
+                71.43201911976911,
+                77.1039142801643
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced"
+        ],
+        "n_estimators": 100,
+        "max_features": "sqrt",
+        "max_depth": 15,
+        "mse": 78.99479411917338,
+        "mean_cv_mse": 83.41010937201186,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.91481005106003,
+                62.48104911265205,
+                72.08136278564652,
+                71.43201911976911,
+                77.1039142801643
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "n_estimators": 100,
+        "max_features": "log2",
+        "max_depth": null,
+        "mse": 79.00578294620078,
+        "mean_cv_mse": 83.39150659119943,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.91481005106003,
+                62.48104911265205,
+                72.08136278564652,
+                71.43201911976911,
+                77.1039142801643
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "n_estimators": 100,
+        "max_features": "log2",
+        "max_depth": 15,
+        "mse": 79.00578294620078,
+        "mean_cv_mse": 83.39150659119943,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.91481005106003,
+                62.48104911265205,
+                72.08136278564652,
+                71.43201911976911,
+                77.1039142801643
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "n_estimators": 100,
+        "max_features": "sqrt",
+        "max_depth": null,
+        "mse": 79.00578294620078,
+        "mean_cv_mse": 83.39150659119943,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.91481005106003,
+                62.48104911265205,
+                72.08136278564652,
+                71.43201911976911,
+                77.1039142801643
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "n_estimators": 100,
+        "max_features": "sqrt",
+        "max_depth": 15,
+        "mse": 79.00578294620078,
+        "mean_cv_mse": 83.39150659119943,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.91481005106003,
+                62.48104911265205,
+                72.08136278564652,
+                71.43201911976911,
+                77.1039142801643
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced"
+        ],
+        "n_estimators": 100,
+        "max_features": "log2",
+        "max_depth": 10,
+        "mse": 78.92665243464472,
+        "mean_cv_mse": 83.37583783603128,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.91481005106003,
+                62.48104911265205,
+                72.07344173301495,
+                71.43942688159792,
+                77.11444768732562
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced"
+        ],
+        "n_estimators": 100,
+        "max_features": "sqrt",
+        "max_depth": 10,
+        "mse": 78.92665243464472,
+        "mean_cv_mse": 83.37583783603128,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.91481005106003,
+                62.48104911265205,
+                72.07344173301495,
+                71.43942688159792,
+                77.11444768732562
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "n_estimators": 100,
+        "max_features": "log2",
+        "max_depth": 10,
+        "mse": 78.96489920573096,
+        "mean_cv_mse": 83.34808079144963,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.91481005106003,
+                62.48104911265205,
+                72.07344173301495,
+                71.40026021493127,
+                77.100400068278
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "n_estimators": 100,
+        "max_features": "sqrt",
+        "max_depth": 10,
+        "mse": 78.96489920573096,
+        "mean_cv_mse": 83.34808079144963,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.91481005106003,
+                62.48104911265205,
+                72.07344173301495,
+                71.40026021493127,
+                77.100400068278
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "n_estimators": 100,
+        "max_features": null,
+        "max_depth": null,
+        "mse": 43.75166702833213,
+        "mean_cv_mse": 51.94260544591019,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.60696375421105,
+                52.56146506271507,
+                80.48005380906503,
+                75.99091785910167,
+                80.20056529581528
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "n_estimators": 100,
+        "max_features": null,
+        "max_depth": 15,
+        "mse": 43.75166702833213,
+        "mean_cv_mse": 51.94260544591019,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.60696375421105,
+                52.56146506271507,
+                80.48005380906503,
+                75.99091785910167,
+                80.20056529581528
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "n_estimators": 100,
+        "max_features": null,
+        "max_depth": null,
+        "mse": 43.75166702833213,
+        "mean_cv_mse": 51.93826649111522,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.60696375421105,
+                52.56146506271507,
+                80.48005380906503,
+                75.99091785910167,
+                80.20056529581528
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "n_estimators": 100,
+        "max_features": null,
+        "max_depth": 15,
+        "mse": 43.75166702833213,
+        "mean_cv_mse": 51.93826649111522,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.60696375421105,
+                52.56146506271507,
+                80.48005380906503,
+                75.99091785910167,
+                80.20056529581528
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "n_estimators": 100,
+        "max_features": null,
+        "max_depth": 10,
+        "mse": 43.71527755095436,
+        "mean_cv_mse": 51.87709412551561,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.60696375421105,
+                52.56146506271507,
+                80.48558740590298,
+                75.99091785910167,
+                80.21556529581528
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "n_estimators": 100,
+        "max_features": null,
+        "max_depth": 10,
+        "mse": 43.71527755095436,
+        "mean_cv_mse": 51.874490925379256,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.60696375421105,
+                52.56146506271507,
+                80.48558740590298,
+                75.99091785910167,
+                80.21556529581528
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "n_estimators": 100,
+        "max_features": "log2",
+        "max_depth": null,
+        "mse": 43.76628667117699,
+        "mean_cv_mse": 51.78318756453564,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.60696375421105,
+                52.56146506271507,
+                80.48005380906503,
+                75.99091785910167,
+                80.20056529581528
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "n_estimators": 100,
+        "max_features": "log2",
+        "max_depth": 15,
+        "mse": 43.76628667117699,
+        "mean_cv_mse": 51.78318756453564,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.60696375421105,
+                52.56146506271507,
+                80.48005380906503,
+                75.99091785910167,
+                80.20056529581528
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "n_estimators": 100,
+        "max_features": "sqrt",
+        "max_depth": null,
+        "mse": 43.76628667117699,
+        "mean_cv_mse": 51.78318756453564,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.60696375421105,
+                52.56146506271507,
+                80.48005380906503,
+                75.99091785910167,
+                80.20056529581528
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "n_estimators": 100,
+        "max_features": "sqrt",
+        "max_depth": 15,
+        "mse": 43.76628667117699,
+        "mean_cv_mse": 51.78318756453564,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.60696375421105,
+                52.56146506271507,
+                80.48005380906503,
+                75.99091785910167,
+                80.20056529581528
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "n_estimators": 100,
+        "max_features": "log2",
+        "max_depth": null,
+        "mse": 43.767105105474364,
+        "mean_cv_mse": 51.76365017300619,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.60696375421105,
+                52.56146506271507,
+                80.48005380906503,
+                75.99091785910167,
+                80.21306529581528
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "n_estimators": 100,
+        "max_features": "log2",
+        "max_depth": 15,
+        "mse": 43.767105105474364,
+        "mean_cv_mse": 51.76365017300619,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.60696375421105,
+                52.56146506271507,
+                80.48005380906503,
+                75.99091785910167,
+                80.21306529581528
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "n_estimators": 100,
+        "max_features": "sqrt",
+        "max_depth": null,
+        "mse": 43.767105105474364,
+        "mean_cv_mse": 51.76365017300619,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.60696375421105,
+                52.56146506271507,
+                80.48005380906503,
+                75.99091785910167,
+                80.21306529581528
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "n_estimators": 100,
+        "max_features": "sqrt",
+        "max_depth": 15,
+        "mse": 43.767105105474364,
+        "mean_cv_mse": 51.76365017300619,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.60696375421105,
+                52.56146506271507,
+                80.48005380906503,
+                75.99091785910167,
+                80.21306529581528
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "n_estimators": 100,
+        "max_features": "log2",
+        "max_depth": 10,
+        "mse": 43.72841546041071,
+        "mean_cv_mse": 51.73795765038433,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.60696375421105,
+                52.56146506271507,
+                80.48558740590298,
+                75.99091785910167,
+                80.24556529581528
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "n_estimators": 100,
+        "max_features": "sqrt",
+        "max_depth": 10,
+        "mse": 43.72841546041071,
+        "mean_cv_mse": 51.73795765038433,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.60696375421105,
+                52.56146506271507,
+                80.48558740590298,
+                75.99091785910167,
+                80.24556529581528
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "n_estimators": 100,
+        "max_features": "log2",
+        "max_depth": 10,
+        "mse": 43.7294083806169,
+        "mean_cv_mse": 51.7327550208869,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.60696375421105,
+                52.56146506271507,
+                80.48558740590298,
+                75.99091785910167,
+                80.24556529581528
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "n_estimators": 100,
+        "max_features": "sqrt",
+        "max_depth": 10,
+        "mse": 43.7294083806169,
+        "mean_cv_mse": 51.7327550208869,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.60696375421105,
+                52.56146506271507,
+                80.48558740590298,
+                75.99091785910167,
+                80.24556529581528
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "n_estimators": 200,
+        "max_features": null,
+        "max_depth": null,
+        "mse": 43.644209554428855,
+        "mean_cv_mse": 51.725871048862416,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.5549482408931,
+                52.547259573759575,
+                80.44039622965185,
+                75.84147713356901,
+                80.2915604256854
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "n_estimators": 200,
+        "max_features": null,
+        "max_depth": 15,
+        "mse": 43.644209554428855,
+        "mean_cv_mse": 51.725871048862416,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.5549482408931,
+                52.547259573759575,
+                80.44039622965185,
+                75.84147713356901,
+                80.2915604256854
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "n_estimators": 200,
+        "max_features": null,
+        "max_depth": null,
+        "mse": 43.644209554428855,
+        "mean_cv_mse": 51.72179729948184,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.5549482408931,
+                52.547259573759575,
+                80.44039622965185,
+                75.84147713356901,
+                80.2915604256854
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "n_estimators": 200,
+        "max_features": null,
+        "max_depth": 15,
+        "mse": 43.644209554428855,
+        "mean_cv_mse": 51.72179729948184,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.5549482408931,
+                52.547259573759575,
+                80.44039622965185,
+                75.84147713356901,
+                80.2915604256854
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "n_estimators": 200,
+        "max_features": null,
+        "max_depth": 10,
+        "mse": 43.61716623047171,
+        "mean_cv_mse": 51.67169075070787,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.55588230682717,
+                52.547259573759575,
+                80.44316302807083,
+                75.87697713356901,
+                80.28679571980305
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "n_estimators": 200,
+        "max_features": null,
+        "max_depth": 10,
+        "mse": 43.61716623047171,
+        "mean_cv_mse": 51.671423344504774,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.55588230682717,
+                52.547259573759575,
+                80.44316302807083,
+                75.87697713356901,
+                80.28679571980305
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "n_estimators": 200,
+        "max_features": "log2",
+        "max_depth": null,
+        "mse": 43.66976704886445,
+        "mean_cv_mse": 51.619841011069674,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.5549482408931,
+                52.547259573759575,
+                80.44039622965185,
+                75.84147713356901,
+                80.2978104256854
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "n_estimators": 200,
+        "max_features": "log2",
+        "max_depth": 15,
+        "mse": 43.66976704886445,
+        "mean_cv_mse": 51.619841011069674,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.5549482408931,
+                52.547259573759575,
+                80.44039622965185,
+                75.84147713356901,
+                80.2978104256854
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "n_estimators": 200,
+        "max_features": "sqrt",
+        "max_depth": null,
+        "mse": 43.66976704886445,
+        "mean_cv_mse": 51.619841011069674,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.5549482408931,
+                52.547259573759575,
+                80.44039622965185,
+                75.84147713356901,
+                80.2978104256854
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "n_estimators": 200,
+        "max_features": "sqrt",
+        "max_depth": 15,
+        "mse": 43.66976704886445,
+        "mean_cv_mse": 51.619841011069674,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.5549482408931,
+                52.547259573759575,
+                80.44039622965185,
+                75.84147713356901,
+                80.2978104256854
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "n_estimators": 200,
+        "max_features": "log2",
+        "max_depth": null,
+        "mse": 43.67729039657923,
+        "mean_cv_mse": 51.61211928561811,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.5549482408931,
+                52.547259573759575,
+                80.44039622965185,
+                75.84147713356901,
+                80.23989375901873
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "n_estimators": 200,
+        "max_features": "log2",
+        "max_depth": 15,
+        "mse": 43.67729039657923,
+        "mean_cv_mse": 51.61211928561811,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.5549482408931,
+                52.547259573759575,
+                80.44039622965185,
+                75.84147713356901,
+                80.23989375901873
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "n_estimators": 200,
+        "max_features": "sqrt",
+        "max_depth": null,
+        "mse": 43.67729039657923,
+        "mean_cv_mse": 51.61211928561811,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.5549482408931,
+                52.547259573759575,
+                80.44039622965185,
+                75.84147713356901,
+                80.23989375901873
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "n_estimators": 200,
+        "max_features": "sqrt",
+        "max_depth": 15,
+        "mse": 43.67729039657923,
+        "mean_cv_mse": 51.61211928561811,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.5549482408931,
+                52.547259573759575,
+                80.44039622965185,
+                75.84147713356901,
+                80.23989375901873
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "n_estimators": 200,
+        "max_features": "log2",
+        "max_depth": 10,
+        "mse": 43.64987063909377,
+        "mean_cv_mse": 51.58339247773604,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.5549482408931,
+                52.547259573759575,
+                80.44316302807083,
+                75.87638685579124,
+                80.3078411743485
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "n_estimators": 200,
+        "max_features": "sqrt",
+        "max_depth": 10,
+        "mse": 43.64987063909377,
+        "mean_cv_mse": 51.58339247773604,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.5549482408931,
+                52.547259573759575,
+                80.44316302807083,
+                75.87638685579124,
+                80.3078411743485
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "n_estimators": 200,
+        "max_features": "log2",
+        "max_depth": 10,
+        "mse": 43.64871638456585,
+        "mean_cv_mse": 51.563299821423676,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.5637394496843,
+                52.547259573759575,
+                80.44316302807083,
+                75.87638685579124,
+                80.30926974577706
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "n_estimators": 200,
+        "max_features": "sqrt",
+        "max_depth": 10,
+        "mse": 43.64871638456585,
+        "mean_cv_mse": 51.563299821423676,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.5637394496843,
+                52.547259573759575,
+                80.44316302807083,
+                75.87638685579124,
+                80.30926974577706
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "n_estimators": 100,
+        "max_features": "log2",
+        "max_depth": null,
+        "mse": 48.09916469087839,
+        "mean_cv_mse": 45.730533556737065,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                70.92535307829425,
+                64.46036754091283,
+                76.50611886724387,
+                75.94200843600842,
+                84.8856459096459
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "n_estimators": 100,
+        "max_features": "log2",
+        "max_depth": 15,
+        "mse": 48.09916469087839,
+        "mean_cv_mse": 45.730533556737065,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                70.92535307829425,
+                64.46036754091283,
+                76.50611886724387,
+                75.94200843600842,
+                84.8856459096459
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "n_estimators": 100,
+        "max_features": "sqrt",
+        "max_depth": null,
+        "mse": 48.09916469087839,
+        "mean_cv_mse": 45.730533556737065,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                70.92535307829425,
+                64.46036754091283,
+                76.50611886724387,
+                75.94200843600842,
+                84.8856459096459
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "n_estimators": 100,
+        "max_features": "sqrt",
+        "max_depth": 15,
+        "mse": 48.09916469087839,
+        "mean_cv_mse": 45.730533556737065,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                70.92535307829425,
+                64.46036754091283,
+                76.50611886724387,
+                75.94200843600842,
+                84.8856459096459
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "n_estimators": 100,
+        "max_features": "log2",
+        "max_depth": null,
+        "mse": 48.08473798233129,
+        "mean_cv_mse": 45.721680461047846,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                70.92535307829425,
+                64.46036754091283,
+                76.50611886724387,
+                75.94200843600842,
+                84.8856459096459
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "n_estimators": 100,
+        "max_features": "sqrt",
+        "max_depth": null,
+        "mse": 48.08473798233129,
+        "mean_cv_mse": 45.721680461047846,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                70.92535307829425,
+                64.46036754091283,
+                76.50611886724387,
+                75.94200843600842,
+                84.8856459096459
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "n_estimators": 100,
+        "max_features": "log2",
+        "max_depth": 15,
+        "mse": 48.08473798233129,
+        "mean_cv_mse": 45.721479269976406,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                70.92535307829425,
+                64.46036754091283,
+                76.50611886724387,
+                75.94200843600842,
+                84.8856459096459
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "n_estimators": 100,
+        "max_features": "sqrt",
+        "max_depth": 15,
+        "mse": 48.08473798233129,
+        "mean_cv_mse": 45.721479269976406,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                70.92535307829425,
+                64.46036754091283,
+                76.50611886724387,
+                75.94200843600842,
+                84.8856459096459
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "n_estimators": 100,
+        "max_features": "log2",
+        "max_depth": 10,
+        "mse": 48.0689283172416,
+        "mean_cv_mse": 45.71049902846325,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                70.92535307829425,
+                64.45629590616085,
+                76.50611886724387,
+                75.98410439560438,
+                84.88753402153401
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "n_estimators": 100,
+        "max_features": "sqrt",
+        "max_depth": 10,
+        "mse": 48.0689283172416,
+        "mean_cv_mse": 45.71049902846325,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                70.92535307829425,
+                64.45629590616085,
+                76.50611886724387,
+                75.98410439560438,
+                84.88753402153401
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "n_estimators": 100,
+        "max_features": "log2",
+        "max_depth": 10,
+        "mse": 48.062832509901185,
+        "mean_cv_mse": 45.70226307603615,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                70.92535307829425,
+                64.46543341124263,
+                76.50611886724387,
+                75.98410439560438,
+                84.88753402153401
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "n_estimators": 100,
+        "max_features": "sqrt",
+        "max_depth": 10,
+        "mse": 48.062832509901185,
+        "mean_cv_mse": 45.70226307603615,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                70.92535307829425,
+                64.46543341124263,
+                76.50611886724387,
+                75.98410439560438,
+                84.88753402153401
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "n_estimators": 100,
+        "max_features": null,
+        "max_depth": null,
+        "mse": 48.17393475409713,
+        "mean_cv_mse": 45.69269017005767,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                70.92535307829425,
+                64.46036754091283,
+                76.50611886724387,
+                75.94200843600842,
+                84.8856459096459
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "n_estimators": 100,
+        "max_features": null,
+        "max_depth": 15,
+        "mse": 48.17393475409713,
+        "mean_cv_mse": 45.69260404533204,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                70.92535307829425,
+                64.46036754091283,
+                76.50611886724387,
+                75.94200843600842,
+                84.8856459096459
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "n_estimators": 100,
+        "max_features": null,
+        "max_depth": null,
+        "mse": 48.17393475409713,
+        "mean_cv_mse": 45.69214199892673,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                70.92535307829425,
+                64.46036754091283,
+                76.50611886724387,
+                75.94200843600842,
+                84.8856459096459
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "n_estimators": 100,
+        "max_features": null,
+        "max_depth": 15,
+        "mse": 48.17393475409713,
+        "mean_cv_mse": 45.692055874201095,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                70.92535307829425,
+                64.46036754091283,
+                76.50611886724387,
+                75.94200843600842,
+                84.8856459096459
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "n_estimators": 100,
+        "max_features": null,
+        "max_depth": 10,
+        "mse": 48.132789722591525,
+        "mean_cv_mse": 45.66080582547268,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                70.92535307829425,
+                64.49108250277203,
+                76.48555476467976,
+                75.92485031635032,
+                84.88753402153401
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "n_estimators": 100,
+        "max_features": null,
+        "max_depth": 10,
+        "mse": 48.144276884496286,
+        "mean_cv_mse": 45.66061036565669,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                70.92535307829425,
+                64.49108250277203,
+                76.48555476467976,
+                75.92485031635032,
+                84.88753402153401
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "n_estimators": 200,
+        "max_features": null,
+        "max_depth": null,
+        "mse": 48.20151292782095,
+        "mean_cv_mse": 45.607920374331826,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                71.03498810952118,
+                64.6862567875339,
+                76.50159298340546,
+                75.9779713064713,
+                85.0612947052947
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "n_estimators": 200,
+        "max_features": null,
+        "max_depth": 15,
+        "mse": 48.20151292782095,
+        "mean_cv_mse": 45.60788376050843,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                71.03498810952118,
+                64.6862567875339,
+                76.50159298340546,
+                75.9779713064713,
+                85.0612947052947
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "n_estimators": 200,
+        "max_features": null,
+        "max_depth": null,
+        "mse": 48.20151292782095,
+        "mean_cv_mse": 45.60762461584968,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                71.03498810952118,
+                64.6862567875339,
+                76.50159298340546,
+                75.9779713064713,
+                85.0612947052947
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "n_estimators": 200,
+        "max_features": null,
+        "max_depth": 15,
+        "mse": 48.20151292782095,
+        "mean_cv_mse": 45.60758800202628,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                71.03498810952118,
+                64.6862567875339,
+                76.50159298340546,
+                75.9779713064713,
+                85.0612947052947
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "n_estimators": 200,
+        "max_features": "log2",
+        "max_depth": null,
+        "mse": 48.12705638351837,
+        "mean_cv_mse": 45.578455831873555,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                71.03498810952118,
+                64.6862567875339,
+                76.50159298340546,
+                75.9779713064713,
+                85.0612947052947
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "n_estimators": 200,
+        "max_features": "sqrt",
+        "max_depth": null,
+        "mse": 48.12705638351837,
+        "mean_cv_mse": 45.578455831873555,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                71.03498810952118,
+                64.6862567875339,
+                76.50159298340546,
+                75.9779713064713,
+                85.0612947052947
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "n_estimators": 200,
+        "max_features": "log2",
+        "max_depth": 15,
+        "mse": 48.12705638351837,
+        "mean_cv_mse": 45.57835669122827,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                71.03498810952118,
+                64.6862567875339,
+                76.50159298340546,
+                75.9779713064713,
+                85.0612947052947
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "n_estimators": 200,
+        "max_features": "sqrt",
+        "max_depth": 15,
+        "mse": 48.12705638351837,
+        "mean_cv_mse": 45.57835669122827,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                71.03498810952118,
+                64.6862567875339,
+                76.50159298340546,
+                75.9779713064713,
+                85.0612947052947
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "n_estimators": 200,
+        "max_features": null,
+        "max_depth": 10,
+        "mse": 48.125483771153355,
+        "mean_cv_mse": 45.572298284021436,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                71.0375228317434,
+                64.69910114960149,
+                76.49381093212341,
+                75.97200296092797,
+                85.0729932151182
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "n_estimators": 200,
+        "max_features": "log2",
+        "max_depth": null,
+        "mse": 48.10902899456709,
+        "mean_cv_mse": 45.572260167957424,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                71.03498810952118,
+                64.6862567875339,
+                76.50159298340546,
+                75.9779713064713,
+                85.0612947052947
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "n_estimators": 200,
+        "max_features": "log2",
+        "max_depth": 15,
+        "mse": 48.10902899456709,
+        "mean_cv_mse": 45.572260167957424,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                71.03498810952118,
+                64.6862567875339,
+                76.50159298340546,
+                75.9779713064713,
+                85.0612947052947
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "n_estimators": 200,
+        "max_features": "sqrt",
+        "max_depth": null,
+        "mse": 48.10902899456709,
+        "mean_cv_mse": 45.572260167957424,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                71.03498810952118,
+                64.6862567875339,
+                76.50159298340546,
+                75.9779713064713,
+                85.0612947052947
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "n_estimators": 200,
+        "max_features": "sqrt",
+        "max_depth": 15,
+        "mse": 48.10902899456709,
+        "mean_cv_mse": 45.572260167957424,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                71.03498810952118,
+                64.6862567875339,
+                76.50159298340546,
+                75.9779713064713,
+                85.0612947052947
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "n_estimators": 200,
+        "max_features": null,
+        "max_depth": 10,
+        "mse": 48.119760412423204,
+        "mean_cv_mse": 45.571722158155225,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                71.0375228317434,
+                64.69910114960149,
+                76.49381093212341,
+                75.97200296092797,
+                85.0729932151182
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "n_estimators": 200,
+        "max_features": "log2",
+        "max_depth": 10,
+        "mse": 48.041285364118266,
+        "mean_cv_mse": 45.566323088934666,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                71.03498810952118,
+                64.6831268033412,
+                76.50159298340546,
+                76.00350500055501,
+                85.06223876123875
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "n_estimators": 200,
+        "max_features": "sqrt",
+        "max_depth": 10,
+        "mse": 48.041285364118266,
+        "mean_cv_mse": 45.566323088934666,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                71.03498810952118,
+                64.6831268033412,
+                76.50159298340546,
+                76.00350500055501,
+                85.06223876123875
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "n_estimators": 200,
+        "max_features": "log2",
+        "max_depth": 10,
+        "mse": 48.04181955372054,
+        "mean_cv_mse": 45.55724576971682,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                71.03498810952118,
+                64.68769555588209,
+                76.50159298340546,
+                76.00350500055501,
+                85.06223876123875
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "n_estimators": 200,
+        "max_features": "sqrt",
+        "max_depth": 10,
+        "mse": 48.04181955372054,
+        "mean_cv_mse": 45.55724576971682,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                71.03498810952118,
+                64.68769555588209,
+                76.50159298340546,
+                76.00350500055501,
+                85.06223876123875
+            ]
+        }
+    }
+]

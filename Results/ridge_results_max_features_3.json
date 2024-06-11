@@ -1,0 +1,2602 @@
+[
+    {
+        "features": [
+            "reading score",
+            "gender_male",
+            "lunch_standard"
+        ],
+        "alpha": 1,
+        "mse": 37.98756737485565,
+        "mean_cv_mse": 39.597678934703275,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                77.76563570092758,
+                54.745142536829455,
+                77.24140205787342,
+                75.99983700298488,
+                86.31595543671074
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male",
+            "lunch_free/reduced"
+        ],
+        "alpha": 1,
+        "mse": 37.98756737485565,
+        "mean_cv_mse": 39.597678934703275,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                77.76563570092758,
+                54.745142536829455,
+                77.24140205787342,
+                75.99983700298489,
+                86.31595543671074
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female",
+            "lunch_standard"
+        ],
+        "alpha": 1,
+        "mse": 37.98756737485565,
+        "mean_cv_mse": 39.597678934703275,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                77.76563570092758,
+                54.745142536829455,
+                77.24140205787342,
+                75.99983700298488,
+                86.31595543671074
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female",
+            "lunch_free/reduced"
+        ],
+        "alpha": 1,
+        "mse": 37.98756737485565,
+        "mean_cv_mse": 39.597678934703275,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                77.76563570092758,
+                54.745142536829455,
+                77.24140205787342,
+                75.99983700298489,
+                86.31595543671074
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "parental level of education_master's degree"
+        ],
+        "alpha": 0.001,
+        "mse": 38.316288310963564,
+        "mean_cv_mse": 39.5794739390477,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.9177977348272,
+                64.55747901568678,
+                77.04440451454622,
+                77.9862516708317,
+                82.69548745225917
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "parental level of education_master's degree"
+        ],
+        "alpha": 0.001,
+        "mse": 38.316288310963564,
+        "mean_cv_mse": 39.5794739390477,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.9177977348272,
+                64.55747901568678,
+                77.04440451454622,
+                77.9862516708317,
+                82.69548745225917
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "parental level of education_master's degree"
+        ],
+        "alpha": 0.01,
+        "mse": 38.31635953405868,
+        "mean_cv_mse": 39.579454136830876,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.91771379891848,
+                64.5575444219875,
+                77.04420606905487,
+                77.98603964877586,
+                82.69520754738085
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "parental level of education_master's degree"
+        ],
+        "alpha": 0.01,
+        "mse": 38.31635953405868,
+        "mean_cv_mse": 39.579454136830876,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.91771379891848,
+                64.5575444219875,
+                77.04420606905487,
+                77.98603964877586,
+                82.69520754738085
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "parental level of education_master's degree"
+        ],
+        "alpha": 0.1,
+        "mse": 38.317076841672446,
+        "mean_cv_mse": 39.579263714355065,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.91687454048102,
+                64.55819833518457,
+                77.04222199580988,
+                77.98391983265502,
+                82.69240901688067
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "parental level of education_master's degree"
+        ],
+        "alpha": 0.1,
+        "mse": 38.317076841672446,
+        "mean_cv_mse": 39.579263714355065,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.91687454048102,
+                64.55819833518457,
+                77.04222199580988,
+                77.98391983265502,
+                82.69240901688067
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "race/ethnicity_group D"
+        ],
+        "alpha": 10,
+        "mse": 38.34224936672023,
+        "mean_cv_mse": 39.57827005155208,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.00401457227929,
+                64.80164650897358,
+                75.69572666280808,
+                78.01715456266686,
+                82.65459459144218
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "race/ethnicity_group D"
+        ],
+        "alpha": 10,
+        "mse": 38.34224936672023,
+        "mean_cv_mse": 39.57827005155208,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.00401457227929,
+                64.80164650897358,
+                75.69572666280808,
+                78.01715456266686,
+                82.65459459144218
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "parental level of education_master's degree"
+        ],
+        "alpha": 1,
+        "mse": 38.32475577044428,
+        "mean_cv_mse": 39.57811609091093,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.90849200761615,
+                64.56472251643733,
+                77.02241935859858,
+                77.96276203961483,
+                82.66447544469611
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "parental level of education_master's degree"
+        ],
+        "alpha": 1,
+        "mse": 38.32475577044428,
+        "mean_cv_mse": 39.57811609091093,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.90849200761615,
+                64.56472251643733,
+                77.02241935859858,
+                77.96276203961483,
+                82.66447544469611
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "parental level of education_bachelor's degree"
+        ],
+        "alpha": 0.001,
+        "mse": 38.15986209215359,
+        "mean_cv_mse": 39.56640787440903,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.96463482016226,
+                64.57929126064136,
+                75.55277256353362,
+                78.08233382654126,
+                82.80294453541441
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "parental level of education_bachelor's degree"
+        ],
+        "alpha": 0.001,
+        "mse": 38.15986209215359,
+        "mean_cv_mse": 39.56640787440903,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.96463482016226,
+                64.57929126064136,
+                75.55277256353362,
+                78.08233382654126,
+                82.80294453541441
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "parental level of education_bachelor's degree"
+        ],
+        "alpha": 0.01,
+        "mse": 38.159877023852275,
+        "mean_cv_mse": 39.5663899411942,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.9645399598833,
+                64.5793491162644,
+                75.5526687418781,
+                78.08210936290514,
+                82.8026506554592
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "parental level of education_bachelor's degree"
+        ],
+        "alpha": 0.01,
+        "mse": 38.159877023852275,
+        "mean_cv_mse": 39.5663899411942,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.9645399598833,
+                64.5793491162644,
+                75.5526687418781,
+                78.08210936290514,
+                82.8026506554592
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "parental level of education_bachelor's degree"
+        ],
+        "alpha": 0.1,
+        "mse": 38.160031951196544,
+        "mean_cv_mse": 39.56621840344017,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.96359149260894,
+                64.57992754374682,
+                75.55163066232706,
+                78.07986517202511,
+                82.79971242150788
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "parental level of education_bachelor's degree"
+        ],
+        "alpha": 0.1,
+        "mse": 38.160031951196544,
+        "mean_cv_mse": 39.56621840344017,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.96359149260894,
+                64.57992754374682,
+                75.55163066232706,
+                78.07986517202511,
+                82.79971242150788
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "parental level of education_bachelor's degree"
+        ],
+        "alpha": 1,
+        "mse": 38.16214020029289,
+        "mean_cv_mse": 39.56527891414684,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.95412034931289,
+                64.58569896961856,
+                75.5412635480977,
+                78.05746772490959,
+                82.77038653386155
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "parental level of education_bachelor's degree"
+        ],
+        "alpha": 1,
+        "mse": 38.16214020029289,
+        "mean_cv_mse": 39.56527891414684,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.95412034931289,
+                64.58569896961856,
+                75.5412635480977,
+                78.05746772490959,
+                82.77038653386155
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "race/ethnicity_group D"
+        ],
+        "alpha": 0.001,
+        "mse": 38.237460386785116,
+        "mean_cv_mse": 39.51670694755869,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.10580983743924,
+                64.73948810910596,
+                75.86399196688858,
+                78.26205593717106,
+                82.97402035914072
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "race/ethnicity_group D"
+        ],
+        "alpha": 0.001,
+        "mse": 38.237460386785116,
+        "mean_cv_mse": 39.51670694755869,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.10580983743924,
+                64.73948810910596,
+                75.86399196688858,
+                78.26205593717106,
+                82.97402035914072
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "race/ethnicity_group D"
+        ],
+        "alpha": 0.01,
+        "mse": 38.23750351705586,
+        "mean_cv_mse": 39.51668819075601,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.10571697341729,
+                64.73954533590835,
+                75.86383777746641,
+                78.26183114506745,
+                82.97372734393514
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "race/ethnicity_group D"
+        ],
+        "alpha": 0.01,
+        "mse": 38.23750351705586,
+        "mean_cv_mse": 39.51668819075601,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.10571697341729,
+                64.73954533590835,
+                75.86383777746641,
+                78.26183114506745,
+                82.97372734393514
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "race/ethnicity_group D"
+        ],
+        "alpha": 0.1,
+        "mse": 38.23794007513165,
+        "mean_cv_mse": 39.51650830336739,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.10478845784418,
+                64.74011747469235,
+                75.86229615917986,
+                78.259583664182,
+                82.97079774743284
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "race/ethnicity_group D"
+        ],
+        "alpha": 0.1,
+        "mse": 38.23794007513165,
+        "mean_cv_mse": 39.51650830336739,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.10478845784418,
+                64.74011747469235,
+                75.86229615917986,
+                78.259583664182,
+                82.97079774743284
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "race/ethnicity_group D"
+        ],
+        "alpha": 1,
+        "mse": 38.24282930520132,
+        "mean_cv_mse": 39.515474054769506,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.09551574781078,
+                64.74582596449353,
+                75.84690752009489,
+                78.23715278629055,
+                82.94155723325294
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "race/ethnicity_group D"
+        ],
+        "alpha": 1,
+        "mse": 38.24282930520132,
+        "mean_cv_mse": 39.515474054769506,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.09551574781078,
+                64.74582596449353,
+                75.84690752009489,
+                78.23715278629055,
+                82.94155723325294
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "race/ethnicity_group C"
+        ],
+        "alpha": 10,
+        "mse": 39.71179140419826,
+        "mean_cv_mse": 39.490264362887366,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.56377421611747,
+                65.02101612080939,
+                77.16636935128989,
+                76.48084282302092,
+                82.70334012543611
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "race/ethnicity_group C"
+        ],
+        "alpha": 10,
+        "mse": 39.71179140419826,
+        "mean_cv_mse": 39.490264362887366,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.56377421611747,
+                65.02101612080939,
+                77.16636935128989,
+                76.48084282302092,
+                82.70334012543611
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "race/ethnicity_group C"
+        ],
+        "alpha": 0.001,
+        "mse": 39.642890448723236,
+        "mean_cv_mse": 39.431367416084605,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.6486481811664,
+                64.9446248545405,
+                77.377232163657,
+                76.7063305087422,
+                83.0021871525814
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "race/ethnicity_group C"
+        ],
+        "alpha": 0.001,
+        "mse": 39.642890448723236,
+        "mean_cv_mse": 39.431367416084605,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.6486481811664,
+                64.9446248545405,
+                77.377232163657,
+                76.7063305087422,
+                83.0021871525814
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "race/ethnicity_group C"
+        ],
+        "alpha": 0.01,
+        "mse": 39.64290157085698,
+        "mean_cv_mse": 39.431347965679294,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.64857070506046,
+                64.94469533134833,
+                77.37703879822521,
+                76.7061233998802,
+                83.0019132614595
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "race/ethnicity_group C"
+        ],
+        "alpha": 0.01,
+        "mse": 39.64290157085698,
+        "mean_cv_mse": 39.431347965679294,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.64857070506046,
+                64.94469533134833,
+                77.37703879822521,
+                76.7061233998802,
+                83.0019132614595
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "race/ethnicity_group C"
+        ],
+        "alpha": 0.1,
+        "mse": 39.6430180139717,
+        "mean_cv_mse": 39.43116096099096,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.64779605294517,
+                64.9453999256327,
+                77.37510550414683,
+                76.70405273043862,
+                82.99917484475924
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "race/ethnicity_group C"
+        ],
+        "alpha": 0.1,
+        "mse": 39.6430180139717,
+        "mean_cv_mse": 39.43116096099096,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.64779605294517,
+                64.9453999256327,
+                77.37510550414683,
+                76.70405273043862,
+                82.99917484475924
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "race/ethnicity_group C"
+        ],
+        "alpha": 1,
+        "mse": 39.64470278173965,
+        "mean_cv_mse": 39.430037540225335,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.64006040847326,
+                64.95242852568241,
+                77.35580852100342,
+                76.68338787224063,
+                82.97184003993561
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "race/ethnicity_group C"
+        ],
+        "alpha": 1,
+        "mse": 39.64470278173965,
+        "mean_cv_mse": 39.430037540225335,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.64006040847326,
+                64.95242852568241,
+                77.35580852100342,
+                76.68338787224063,
+                82.97184003993561
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score",
+            "gender_male"
+        ],
+        "alpha": 10,
+        "mse": 34.02950674975723,
+        "mean_cv_mse": 37.70467697722533,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.69346753448214,
+                61.693165680217774,
+                76.52329103860872,
+                78.64076009863457,
+                83.80785501191882
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score",
+            "gender_female"
+        ],
+        "alpha": 10,
+        "mse": 34.02950674975723,
+        "mean_cv_mse": 37.70467697722533,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.69346753448214,
+                61.693165680217774,
+                76.52329103860872,
+                78.64076009863457,
+                83.80785501191882
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score",
+            "gender_male"
+        ],
+        "alpha": 0.001,
+        "mse": 34.092731565820955,
+        "mean_cv_mse": 37.68181545126019,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.64434397874311,
+                61.83999905438056,
+                76.70692809549031,
+                78.73895454218717,
+                83.9127849485781
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score",
+            "gender_female"
+        ],
+        "alpha": 0.001,
+        "mse": 34.092731565820955,
+        "mean_cv_mse": 37.68181545126019,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.64434397874311,
+                61.83999905438056,
+                76.70692809549031,
+                78.73895454218717,
+                83.9127849485781
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score",
+            "gender_male"
+        ],
+        "alpha": 0.01,
+        "mse": 34.092584261121885,
+        "mean_cv_mse": 37.6817689223437,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.64440866895937,
+                61.83980137899688,
+                76.70675135825546,
+                78.73888301129213,
+                83.9127174219683
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score",
+            "gender_female"
+        ],
+        "alpha": 0.01,
+        "mse": 34.092584261121885,
+        "mean_cv_mse": 37.6817689223437,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.64440866895937,
+                61.83980137899688,
+                76.70675135825546,
+                78.73888301129213,
+                83.9127174219683
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score",
+            "gender_male"
+        ],
+        "alpha": 0.1,
+        "mse": 34.09112322626126,
+        "mean_cv_mse": 37.681313270438125,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.64505295706903,
+                61.837833050467374,
+                76.70498539706016,
+                78.7381654859038,
+                83.91203863889292
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score",
+            "gender_female"
+        ],
+        "alpha": 0.1,
+        "mse": 34.09112322626126,
+        "mean_cv_mse": 37.681313270438125,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.64505295706903,
+                61.837833050467374,
+                76.70498539706016,
+                78.7381654859038,
+                83.91203863889292
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score",
+            "gender_male"
+        ],
+        "alpha": 1,
+        "mse": 34.07767304852807,
+        "mean_cv_mse": 37.67767624788712,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.65124185817278,
+                61.81896774977185,
+                76.68746339435226,
+                78.73077553138972,
+                83.9049099004872
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score",
+            "gender_female"
+        ],
+        "alpha": 1,
+        "mse": 34.07767304852807,
+        "mean_cv_mse": 37.67767624788712,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.65124185817278,
+                61.81896774977185,
+                76.68746339435226,
+                78.73077553138972,
+                83.9049099004872
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "test preparation course_none"
+        ],
+        "alpha": 10,
+        "mse": 33.32427739703131,
+        "mean_cv_mse": 36.907259345930555,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.39096370581457,
+                62.00128193424028,
+                78.38388482563167,
+                79.35033705784278,
+                80.4238910016462
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "test preparation course_completed"
+        ],
+        "alpha": 10,
+        "mse": 33.32427739703131,
+        "mean_cv_mse": 36.907259345930555,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.39096370581457,
+                62.00128193424028,
+                78.38388482563167,
+                79.35033705784278,
+                80.4238910016462
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "test preparation course_none"
+        ],
+        "alpha": 10,
+        "mse": 33.32427739703131,
+        "mean_cv_mse": 36.907259345930555,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.39096370581457,
+                62.00128193424028,
+                78.38388482563167,
+                79.35033705784278,
+                80.4238910016462
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "test preparation course_completed"
+        ],
+        "alpha": 10,
+        "mse": 33.32427739703131,
+        "mean_cv_mse": 36.907259345930555,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.39096370581457,
+                62.00128193424028,
+                78.38388482563167,
+                79.35033705784278,
+                80.4238910016462
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "test preparation course_none"
+        ],
+        "alpha": 1,
+        "mse": 33.19758357116303,
+        "mean_cv_mse": 36.80576669921762,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.57072984131612,
+                61.7917033258711,
+                78.67678290283294,
+                79.6594374452901,
+                80.60288360915965
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "test preparation course_completed"
+        ],
+        "alpha": 1,
+        "mse": 33.19758357116303,
+        "mean_cv_mse": 36.80576669921762,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.57072984131612,
+                61.7917033258711,
+                78.67678290283294,
+                79.6594374452901,
+                80.60288360915965
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "test preparation course_none"
+        ],
+        "alpha": 1,
+        "mse": 33.19758357116303,
+        "mean_cv_mse": 36.80576669921762,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.57072984131612,
+                61.7917033258711,
+                78.67678290283294,
+                79.6594374452901,
+                80.60288360915965
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "test preparation course_completed"
+        ],
+        "alpha": 1,
+        "mse": 33.19758357116303,
+        "mean_cv_mse": 36.80576669921762,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.57072984131612,
+                61.7917033258711,
+                78.67678290283294,
+                79.6594374452901,
+                80.60288360915965
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "test preparation course_none"
+        ],
+        "alpha": 0.001,
+        "mse": 33.19125427319403,
+        "mean_cv_mse": 36.80480113278354,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.59113551021481,
+                61.76779004889485,
+                78.71008309834713,
+                79.69457379165675,
+                80.62307942329062
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "test preparation course_completed"
+        ],
+        "alpha": 0.001,
+        "mse": 33.19125427319403,
+        "mean_cv_mse": 36.80480113278354,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.59113551021481,
+                61.76779004889485,
+                78.71008309834713,
+                79.69457379165675,
+                80.62307942329062
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "test preparation course_none"
+        ],
+        "alpha": 0.001,
+        "mse": 33.19125427319403,
+        "mean_cv_mse": 36.80480113278354,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.59113551021481,
+                61.76779004889485,
+                78.71008309834713,
+                79.69457379165675,
+                80.62307942329062
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "test preparation course_completed"
+        ],
+        "alpha": 0.001,
+        "mse": 33.19125427319403,
+        "mean_cv_mse": 36.80480113278354,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.59113551021481,
+                61.76779004889485,
+                78.71008309834713,
+                79.69457379165675,
+                80.62307942329062
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "test preparation course_none"
+        ],
+        "alpha": 0.01,
+        "mse": 33.19130408605727,
+        "mean_cv_mse": 36.80480013634731,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.5909512631424,
+                61.76800607788543,
+                78.70978237683983,
+                79.69425649388394,
+                80.62289718133282
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "test preparation course_completed"
+        ],
+        "alpha": 0.01,
+        "mse": 33.19130408605727,
+        "mean_cv_mse": 36.80480013634731,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.5909512631424,
+                61.76800607788543,
+                78.70978237683983,
+                79.69425649388394,
+                80.62289718133282
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "test preparation course_none"
+        ],
+        "alpha": 0.01,
+        "mse": 33.19130408605727,
+        "mean_cv_mse": 36.80480013634731,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.5909512631424,
+                61.76800607788543,
+                78.70978237683983,
+                79.69425649388394,
+                80.62289718133282
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "test preparation course_completed"
+        ],
+        "alpha": 0.01,
+        "mse": 33.19130408605727,
+        "mean_cv_mse": 36.80480013634731,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.5909512631424,
+                61.76800607788543,
+                78.70978237683983,
+                79.69425649388394,
+                80.62289718133282
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "test preparation course_none"
+        ],
+        "alpha": 0.1,
+        "mse": 33.19180945135274,
+        "mean_cv_mse": 36.804799914874934,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.58910920549974,
+                61.770165772416576,
+                78.70677588302493,
+                79.69108427184844,
+                80.62107505994132
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "test preparation course_completed"
+        ],
+        "alpha": 0.1,
+        "mse": 33.19180945135274,
+        "mean_cv_mse": 36.804799914874934,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.58910920549974,
+                61.770165772416576,
+                78.70677588302493,
+                79.69108427184844,
+                80.62107505994132
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "test preparation course_none"
+        ],
+        "alpha": 0.1,
+        "mse": 33.19180945135274,
+        "mean_cv_mse": 36.804799914874934,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.58910920549974,
+                61.770165772416576,
+                78.70677588302493,
+                79.69108427184844,
+                80.62107505994132
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "test preparation course_completed"
+        ],
+        "alpha": 0.1,
+        "mse": 33.19180945135274,
+        "mean_cv_mse": 36.804799914874934,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.58910920549974,
+                61.770165772416576,
+                78.70677588302493,
+                79.69108427184844,
+                80.62107505994132
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "lunch_standard"
+        ],
+        "alpha": 10,
+        "mse": 36.51263541777192,
+        "mean_cv_mse": 36.684985363922635,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.6271291868379,
+                61.85617501373039,
+                77.75230670783088,
+                74.63157895780405,
+                83.07741991937122
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "lunch_free/reduced"
+        ],
+        "alpha": 10,
+        "mse": 36.51263541777192,
+        "mean_cv_mse": 36.684985363922635,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.6271291868379,
+                61.85617501373039,
+                77.75230670783088,
+                74.63157895780405,
+                83.07741991937122
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "lunch_standard"
+        ],
+        "alpha": 10,
+        "mse": 36.51263541777192,
+        "mean_cv_mse": 36.684985363922635,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.6271291868379,
+                61.85617501373039,
+                77.75230670783088,
+                74.63157895780405,
+                83.07741991937122
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "lunch_free/reduced"
+        ],
+        "alpha": 10,
+        "mse": 36.51263541777192,
+        "mean_cv_mse": 36.684985363922635,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.6271291868379,
+                61.85617501373039,
+                77.75230670783088,
+                74.63157895780405,
+                83.07741991937122
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "lunch_standard"
+        ],
+        "alpha": 0.001,
+        "mse": 36.355262792997266,
+        "mean_cv_mse": 36.63100133440808,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.68889397808795,
+                61.830935618450944,
+                77.93677230661582,
+                74.90709478176305,
+                83.35091272400794
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "lunch_free/reduced"
+        ],
+        "alpha": 0.001,
+        "mse": 36.35526279299726,
+        "mean_cv_mse": 36.63100133440808,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.68889397808795,
+                61.83093561845094,
+                77.93677230661582,
+                74.90709478176305,
+                83.35091272400794
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "lunch_standard"
+        ],
+        "alpha": 0.001,
+        "mse": 36.355262792997266,
+        "mean_cv_mse": 36.63100133440808,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.68889397808795,
+                61.830935618450944,
+                77.93677230661582,
+                74.90709478176305,
+                83.35091272400794
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "lunch_free/reduced"
+        ],
+        "alpha": 0.001,
+        "mse": 36.35526279299726,
+        "mean_cv_mse": 36.63100133440808,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.68889397808795,
+                61.83093561845094,
+                77.93677230661582,
+                74.90709478176305,
+                83.35091272400794
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "lunch_standard"
+        ],
+        "alpha": 0.01,
+        "mse": 36.355356635969976,
+        "mean_cv_mse": 36.630980746095524,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.6888382587903,
+                61.83095797132915,
+                77.93660337286643,
+                74.90684063657969,
+                83.35066214845364
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "lunch_free/reduced"
+        ],
+        "alpha": 0.01,
+        "mse": 36.355356635969976,
+        "mean_cv_mse": 36.630980746095524,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.6888382587903,
+                61.83095797132915,
+                77.93660337286643,
+                74.90684063657969,
+                83.35066214845364
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "lunch_standard"
+        ],
+        "alpha": 0.01,
+        "mse": 36.355356635969976,
+        "mean_cv_mse": 36.630980746095524,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.6888382587903,
+                61.83095797132915,
+                77.93660337286643,
+                74.90684063657969,
+                83.35066214845364
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "lunch_free/reduced"
+        ],
+        "alpha": 0.01,
+        "mse": 36.355356635969976,
+        "mean_cv_mse": 36.630980746095524,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.6888382587903,
+                61.83095797132915,
+                77.93660337286643,
+                74.90684063657969,
+                83.35066214845364
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "lunch_standard"
+        ],
+        "alpha": 0.1,
+        "mse": 36.35629998910735,
+        "mean_cv_mse": 36.63078204592974,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.68828107758847,
+                61.83118153808463,
+                77.93491432783965,
+                74.90429980851782,
+                83.34815683793066
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "lunch_standard"
+        ],
+        "alpha": 0.1,
+        "mse": 36.35629998910735,
+        "mean_cv_mse": 36.63078204592974,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.68828107758847,
+                61.83118153808463,
+                77.93491432783965,
+                74.90429980851782,
+                83.34815683793066
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "lunch_free/reduced"
+        ],
+        "alpha": 0.1,
+        "mse": 36.35629998910735,
+        "mean_cv_mse": 36.630782045929735,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.68828107758847,
+                61.83118153808463,
+                77.93491432783966,
+                74.90429980851782,
+                83.34815683793066
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "lunch_free/reduced"
+        ],
+        "alpha": 0.1,
+        "mse": 36.35629998910735,
+        "mean_cv_mse": 36.630782045929735,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.68828107758847,
+                61.83118153808463,
+                77.93491432783966,
+                74.90429980851782,
+                83.34815683793066
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "lunch_standard"
+        ],
+        "alpha": 1,
+        "mse": 36.36622393483673,
+        "mean_cv_mse": 36.62950992404637,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.68271044984229,
+                61.833420984175014,
+                77.91805307021191,
+                74.87895376405888,
+                83.32314814996903
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "lunch_standard"
+        ],
+        "alpha": 1,
+        "mse": 36.36622393483673,
+        "mean_cv_mse": 36.62950992404637,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.68271044984229,
+                61.833420984175014,
+                77.91805307021191,
+                74.87895376405888,
+                83.32314814996903
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "lunch_free/reduced"
+        ],
+        "alpha": 1,
+        "mse": 36.36622393483673,
+        "mean_cv_mse": 36.62950992404636,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.68271044984229,
+                61.833420984175014,
+                77.91805307021191,
+                74.87895376405888,
+                83.32314814996903
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "lunch_free/reduced"
+        ],
+        "alpha": 1,
+        "mse": 36.36622393483673,
+        "mean_cv_mse": 36.62950992404636,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.68271044984229,
+                61.833420984175014,
+                77.91805307021191,
+                74.87895376405888,
+                83.32314814996903
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "race/ethnicity_group E"
+        ],
+        "alpha": 10,
+        "mse": 37.235097746236995,
+        "mean_cv_mse": 36.557717814084285,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.7326340291243,
+                63.71289327563696,
+                75.81268750832473,
+                76.72357303136903,
+                86.50823020119421
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "race/ethnicity_group E"
+        ],
+        "alpha": 10,
+        "mse": 37.235097746236995,
+        "mean_cv_mse": 36.557717814084285,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.7326340291243,
+                63.71289327563696,
+                75.81268750832473,
+                76.72357303136903,
+                86.50823020119421
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "race/ethnicity_group E"
+        ],
+        "alpha": 0.001,
+        "mse": 37.144658054132975,
+        "mean_cv_mse": 36.50208116347725,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.81552877817471,
+                63.63646403832874,
+                76.0212612493204,
+                76.94663077112459,
+                86.80618346088323
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "race/ethnicity_group E"
+        ],
+        "alpha": 0.001,
+        "mse": 37.144658054132975,
+        "mean_cv_mse": 36.50208116347725,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.81552877817471,
+                63.63646403832874,
+                76.0212612493204,
+                76.94663077112459,
+                86.80618346088323
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "race/ethnicity_group E"
+        ],
+        "alpha": 0.01,
+        "mse": 37.144689875215384,
+        "mean_cv_mse": 36.50206026431114,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.81545317362072,
+                63.63653427700287,
+                76.02106971615785,
+                76.94642597948675,
+                86.80591109231095
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "race/ethnicity_group E"
+        ],
+        "alpha": 0.01,
+        "mse": 37.144689875215384,
+        "mean_cv_mse": 36.50206026431114,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.81545317362072,
+                63.63653427700287,
+                76.02106971615785,
+                76.94642597948675,
+                86.80591109231095
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "race/ethnicity_group E"
+        ],
+        "alpha": 0.1,
+        "mse": 37.14501317424751,
+        "mean_cv_mse": 36.501858617903835,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.8146972278677,
+                63.63723651775651,
+                76.01915476814455,
+                76.94437846906375,
+                86.80318782788939
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "race/ethnicity_group E"
+        ],
+        "alpha": 0.1,
+        "mse": 37.14501317424751,
+        "mean_cv_mse": 36.501858617903835,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.8146972278677,
+                63.63723651775651,
+                76.01915476814455,
+                76.94437846906375,
+                86.80318782788939
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "race/ethnicity_group E"
+        ],
+        "alpha": 1,
+        "mse": 37.14875318042357,
+        "mean_cv_mse": 36.50057343971237,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.80714773367092,
+                63.64424435465356,
+                76.00004357500498,
+                76.92394388218838,
+                86.77599724528727
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "race/ethnicity_group E"
+        ],
+        "alpha": 1,
+        "mse": 37.14875318042357,
+        "mean_cv_mse": 36.50057343971237,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.80714773367092,
+                63.64424435465356,
+                76.00004357500498,
+                76.92394388218838,
+                86.77599724528727
+            ]
+        }
+    }
+]

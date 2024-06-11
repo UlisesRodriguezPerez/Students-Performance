@@ -1,0 +1,2395 @@
+[
+    {
+        "features": [
+            "reading score",
+            "lunch_standard",
+            "test preparation course_none"
+        ],
+        "mse": 74.28416170566537,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.5931716972753,
+                59.980852121905336,
+                71.19576031751355,
+                68.5993460774917,
+                79.37308474461923
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced",
+            "test preparation course_none"
+        ],
+        "mse": 74.28416170566537,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.5931716972753,
+                59.980852121905336,
+                71.19576031751356,
+                68.5993460774917,
+                79.37308474461923
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced",
+            "test preparation course_completed"
+        ],
+        "mse": 74.28416170566537,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.5931716972753,
+                59.98085212190534,
+                71.19576031751356,
+                68.5993460774917,
+                79.37308474461923
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard",
+            "test preparation course_completed"
+        ],
+        "mse": 74.28416170566535,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.5931716972753,
+                59.98085212190534,
+                71.19576031751356,
+                68.5993460774917,
+                79.37308474461923
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group E",
+            "parental level of education_high school"
+        ],
+        "mse": 74.28244616693968,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.42200370567458,
+                62.78409026067991,
+                68.60735996642805,
+                71.93494265542698,
+                82.05404264737152
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group E",
+            "parental level of education_bachelor's degree"
+        ],
+        "mse": 74.2806891627958,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.40960798901261,
+                62.78274131586548,
+                68.72846704788644,
+                71.9275179860964,
+                82.03919485295282
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group E"
+        ],
+        "mse": 74.27000433125495,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.42967871957327,
+                62.796421676722986,
+                68.61806164172059,
+                71.94471305029066,
+                82.06066867287245
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group B",
+            "race/ethnicity_group E"
+        ],
+        "mse": 74.2388270119934,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.52789586947131,
+                62.41250815386166,
+                68.7261497718129,
+                72.04976395570779,
+                82.05363199932543
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced",
+            "lunch_standard"
+        ],
+        "mse": 74.12159299647891,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.67702487431691,
+                59.86880261803669,
+                71.25834704500613,
+                68.68460693514581,
+                79.27271460601443
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_standard"
+        ],
+        "mse": 74.12159299647891,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.6770248743169,
+                59.86880261803668,
+                71.25834704500613,
+                68.6846069351458,
+                79.27271460601442
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "lunch_free/reduced"
+        ],
+        "mse": 74.12159299647891,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.6770248743169,
+                59.86880261803668,
+                71.25834704500613,
+                68.6846069351458,
+                79.27271460601442
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_associate's degree",
+            "lunch_standard"
+        ],
+        "mse": 74.06970853384647,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.74273331652884,
+                59.84927094706933,
+                71.23837361493398,
+                68.66325829912904,
+                79.25108938953372
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_associate's degree",
+            "lunch_free/reduced"
+        ],
+        "mse": 74.06970853384647,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.74273331652884,
+                59.84927094706933,
+                71.23837361493398,
+                68.66325829912904,
+                79.25108938953372
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_high school",
+            "lunch_standard"
+        ],
+        "mse": 74.05901033222732,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.72147487494007,
+                59.93170041264767,
+                71.32163026766098,
+                68.73156892649922,
+                79.32151073479875
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_high school",
+            "lunch_free/reduced"
+        ],
+        "mse": 74.05901033222732,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.72147487494007,
+                59.93170041264767,
+                71.32163026766098,
+                68.73156892649922,
+                79.32151073479875
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_some high school",
+            "lunch_standard"
+        ],
+        "mse": 74.0297810402702,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.85095913585698,
+                60.0665042943067,
+                71.45277877723726,
+                68.86496459775415,
+                79.45137905309858
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "parental level of education_some high school",
+            "lunch_free/reduced"
+        ],
+        "mse": 74.0297810402702,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.85095913585698,
+                60.066504294306704,
+                71.45277877723726,
+                68.86496459775417,
+                79.45137905309858
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score",
+            "race/ethnicity_group E"
+        ],
+        "mse": 73.97195364156681,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.13282607222547,
+                65.16857390310244,
+                68.61547151151723,
+                71.0518871451493,
+                81.09729655049563
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group E",
+            "test preparation course_none"
+        ],
+        "mse": 73.88346043933164,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.68674074227648,
+                62.422558406851664,
+                68.81716563588819,
+                72.16165028400765,
+                81.798413000158
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group E",
+            "test preparation course_completed"
+        ],
+        "mse": 73.88346043933164,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                79.6867407422765,
+                62.422558406851664,
+                68.81716563588819,
+                72.16165028400766,
+                81.798413000158
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group B",
+            "lunch_free/reduced"
+        ],
+        "mse": 73.84224182582471,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.89612299250665,
+                58.74562401827701,
+                71.51721367163522,
+                68.92482587035965,
+                79.50099007230556
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group B",
+            "lunch_standard"
+        ],
+        "mse": 73.8422418258247,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.89612299250663,
+                58.74562401827701,
+                71.5172136716352,
+                68.92482587035965,
+                79.50099007230554
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group C",
+            "race/ethnicity_group E"
+        ],
+        "mse": 73.77550734320505,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                78.66837959558767,
+                63.27037507289939,
+                69.09851035735525,
+                71.17506280128725,
+                82.06926777190894
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group D",
+            "lunch_standard"
+        ],
+        "mse": 73.75969198615985,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.58091205813825,
+                59.777321849762615,
+                71.52736731086272,
+                68.58904736444194,
+                79.17771419049843
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group D",
+            "lunch_free/reduced"
+        ],
+        "mse": 73.75969198615984,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.58091205813825,
+                59.77732184976261,
+                71.52736731086272,
+                68.58904736444194,
+                79.17771419049843
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group C",
+            "lunch_standard"
+        ],
+        "mse": 73.38905857695882,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.07771606874128,
+                60.609695366166676,
+                72.03897311016885,
+                67.04808487118879,
+                80.04074037792039
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group C",
+            "lunch_free/reduced"
+        ],
+        "mse": 73.38905857695882,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.07771606874128,
+                60.609695366166676,
+                72.03897311016885,
+                67.04808487118879,
+                80.04074037792039
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score",
+            "lunch_standard"
+        ],
+        "mse": 73.22199144379681,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.45366485535203,
+                61.65112260857885,
+                71.20608220224688,
+                68.26747754159145,
+                78.43507737112165
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score",
+            "lunch_free/reduced"
+        ],
+        "mse": 73.22199144379681,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                81.45366485535203,
+                61.65112260857885,
+                71.20608220224688,
+                68.26747754159145,
+                78.43507737112165
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group D",
+            "race/ethnicity_group E"
+        ],
+        "mse": 72.73288686280922,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                78.96999393406975,
+                62.38878064532223,
+                69.5976158158889,
+                71.50844795413337,
+                82.03655357129465
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group E",
+            "lunch_standard"
+        ],
+        "mse": 72.22448566868894,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.68629755214138,
+                59.16181556848436,
+                70.46414638459035,
+                67.81132809487369,
+                83.4898517740508
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "race/ethnicity_group E",
+            "lunch_free/reduced"
+        ],
+        "mse": 72.22448566868894,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                80.68629755214138,
+                59.16181556848436,
+                70.46414638459035,
+                67.81132809487369,
+                83.4898517740508
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "race/ethnicity_group C"
+        ],
+        "mse": 39.64288921879327,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.64865678974489,
+                64.944617023589,
+                77.37725364910935,
+                76.7063535213085,
+                83.00221758548338
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "race/ethnicity_group C"
+        ],
+        "mse": 39.64288921879327,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.6486567897449,
+                64.94461702358902,
+                77.37725364910935,
+                76.7063535213085,
+                83.00221758548338
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female",
+            "parental level of education_some college"
+        ],
+        "mse": 39.52957917515052,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.31037427537147,
+                58.586374241488556,
+                75.60725521982515,
+                80.68063653479435,
+                86.37998187200736
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male",
+            "parental level of education_some college"
+        ],
+        "mse": 39.52957917515051,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.31037427537146,
+                58.58637424148854,
+                75.60725521982513,
+                80.68063653479433,
+                86.37998187200735
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male",
+            "parental level of education_associate's degree"
+        ],
+        "mse": 39.378735186840444,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.49906449880324,
+                57.62363555651897,
+                75.93453253588245,
+                79.735583206951,
+                85.43715921355381
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female",
+            "parental level of education_associate's degree"
+        ],
+        "mse": 39.378735186840444,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.49906449880324,
+                57.62363555651897,
+                75.93453253588245,
+                79.735583206951,
+                85.43715921355381
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male",
+            "race/ethnicity_group D"
+        ],
+        "mse": 39.32837630876925,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.6111313863075,
+                57.60947689380628,
+                75.86257274856759,
+                79.7195666730399,
+                85.42006302079027
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female",
+            "race/ethnicity_group D"
+        ],
+        "mse": 39.328376308769236,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.6111313863075,
+                57.60947689380627,
+                75.86257274856757,
+                79.7195666730399,
+                85.42006302079025
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female",
+            "gender_male"
+        ],
+        "mse": 39.30069939946329,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.59639373980629,
+                57.59609313517963,
+                75.90393646257306,
+                79.70399658349838,
+                85.40408676488637
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male"
+        ],
+        "mse": 39.30069939946329,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.59639373980629,
+                57.596093135179636,
+                75.90393646257306,
+                79.70399658349838,
+                85.40408676488637
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female"
+        ],
+        "mse": 39.30069939946329,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.5963937398063,
+                57.59609313517964,
+                75.90393646257306,
+                79.7039965834984,
+                85.40408676488639
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female",
+            "parental level of education_bachelor's degree"
+        ],
+        "mse": 39.293239172245656,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.61069619754448,
+                57.605525915866615,
+                75.82589149717673,
+                79.71724829485558,
+                85.41879937935894
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male",
+            "parental level of education_bachelor's degree"
+        ],
+        "mse": 39.29323917224565,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.61069619754448,
+                57.60552591586661,
+                75.82589149717671,
+                79.71724829485558,
+                85.41879937935894
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male",
+            "parental level of education_high school"
+        ],
+        "mse": 39.28974519901636,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.62215367421528,
+                57.6386092280634,
+                75.94215446365041,
+                79.7388633528808,
+                85.43392668672635
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female",
+            "parental level of education_high school"
+        ],
+        "mse": 39.289745199016345,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.62215367421527,
+                57.638609228063395,
+                75.94215446365041,
+                79.7388633528808,
+                85.43392668672635
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male",
+            "parental level of education_some high school"
+        ],
+        "mse": 39.19368330475813,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.70522248827635,
+                57.725807599743874,
+                76.01193177586445,
+                79.80781475357094,
+                85.50163922013068
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female",
+            "parental level of education_some high school"
+        ],
+        "mse": 39.19368330475812,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.70522248827635,
+                57.72580759974387,
+                76.01193177586444,
+                79.80781475357094,
+                85.50163922013068
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female",
+            "parental level of education_master's degree"
+        ],
+        "mse": 39.17478112018472,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.69040895168092,
+                57.66903475009417,
+                75.96229916722791,
+                79.76657400754527,
+                85.47298626802129
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male",
+            "parental level of education_master's degree"
+        ],
+        "mse": 39.174781120184704,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.69040895168092,
+                57.66903475009416,
+                75.96229916722791,
+                79.76657400754526,
+                85.47298626802129
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "parental level of education_associate's degree"
+        ],
+        "mse": 39.14139088754641,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.3237440596959,
+                64.49911667514031,
+                77.0317204625681,
+                77.97157854436387,
+                82.67086895334265
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "parental level of education_associate's degree"
+        ],
+        "mse": 39.14139088754639,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.3237440596959,
+                64.4991166751403,
+                77.0317204625681,
+                77.97157854436387,
+                82.67086895334265
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female",
+            "race/ethnicity_group B"
+        ],
+        "mse": 39.123992130666494,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.68863609906575,
+                57.176903965383026,
+                75.98905589111791,
+                79.78357936876304,
+                85.47536458523072
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male",
+            "race/ethnicity_group B"
+        ],
+        "mse": 39.12399213066647,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.68863609906573,
+                57.17690396538301,
+                75.9890558911179,
+                79.78357936876303,
+                85.47536458523071
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "parental level of education_some college"
+        ],
+        "mse": 39.026510325845486,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.51617334782061,
+                65.03878553537736,
+                76.70878263219824,
+                78.49131600616978,
+                83.1829498338426
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "parental level of education_some college"
+        ],
+        "mse": 39.026510325845486,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.5161733478206,
+                65.03878553537736,
+                76.70878263219822,
+                78.49131600616977,
+                83.1829498338426
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male",
+            "race/ethnicity_group C"
+        ],
+        "mse": 38.961160117658736,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.57675294940218,
+                58.14332540582232,
+                76.35297132735711,
+                78.60793677391065,
+                85.83951013799854
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female",
+            "race/ethnicity_group C"
+        ],
+        "mse": 38.961160117658736,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.57675294940218,
+                58.14332540582231,
+                76.3529713273571,
+                78.60793677391065,
+                85.83951013799854
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male",
+            "race/ethnicity_group A"
+        ],
+        "mse": 38.850876479318885,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.66928597448701,
+                57.69639081887537,
+                76.0709762433022,
+                79.86555527442454,
+                85.55742382110802
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female",
+            "race/ethnicity_group A"
+        ],
+        "mse": 38.85087647931885,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.669285974487,
+                57.69639081887536,
+                76.0709762433022,
+                79.86555527442451,
+                85.55742382110799
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "parental level of education_some high school"
+        ],
+        "mse": 38.70013728282971,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.63222095680759,
+                64.29294059427048,
+                76.83315522356337,
+                77.77308980197583,
+                82.47276269403815
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "parental level of education_some high school"
+        ],
+        "mse": 38.700137282829694,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.63222095680757,
+                64.29294059427046,
+                76.83315522356335,
+                77.77308980197583,
+                82.47276269403815
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "race/ethnicity_group B"
+        ],
+        "mse": 38.59063693016772,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.68590063837402,
+                64.49160996033334,
+                76.88768927532142,
+                77.82683691077631,
+                82.52257508805069
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "race/ethnicity_group B"
+        ],
+        "mse": 38.59063693016772,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.68590063837402,
+                64.49160996033334,
+                76.88768927532143,
+                77.82683691077631,
+                82.52257508805067
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male"
+        ],
+        "mse": 38.581890125770514,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.70920934463909,
+                64.38309891857695,
+                76.90829562372959,
+                77.84703293518979,
+                82.54071949249077
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female"
+        ],
+        "mse": 38.58189012577051,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.70920934463909,
+                64.38309891857693,
+                76.90829562372959,
+                77.84703293518979,
+                82.54071949249077
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "gender_male"
+        ],
+        "mse": 38.5818901257705,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.70920934463909,
+                64.38309891857693,
+                76.90829562372959,
+                77.84703293518979,
+                82.54071949249077
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "parental level of education_high school"
+        ],
+        "mse": 38.547634941495694,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.5743311554232,
+                64.18886453575773,
+                76.71818736869875,
+                77.66232069775924,
+                82.38298734306173
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "parental level of education_high school"
+        ],
+        "mse": 38.547634941495694,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.57433115542318,
+                64.18886453575772,
+                76.71818736869872,
+                77.66232069775924,
+                82.38298734306173
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "race/ethnicity_group A"
+        ],
+        "mse": 38.32352840871943,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.7313856013053,
+                64.41220848152268,
+                76.95991956233027,
+                77.8980265732196,
+                82.58856162766624
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "race/ethnicity_group A"
+        ],
+        "mse": 38.32352840871943,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.7313856013053,
+                64.41220848152268,
+                76.95991956233027,
+                77.8980265732196,
+                82.58856162766625
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "parental level of education_master's degree"
+        ],
+        "mse": 38.3162804029861,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.91780706115226,
+                64.55747174815188,
+                77.04442656447367,
+                77.98627522929188,
+                82.69551855338297
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "parental level of education_master's degree"
+        ],
+        "mse": 38.3162804029861,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.91780706115226,
+                64.55747174815188,
+                77.04442656447367,
+                77.98627522929189,
+                82.69551855338297
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female",
+            "test preparation course_none"
+        ],
+        "mse": 38.29793674455978,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                77.21391872366068,
+                56.63378907523656,
+                76.46600304817314,
+                80.31472900666078,
+                84.75131808840632
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female",
+            "test preparation course_completed"
+        ],
+        "mse": 38.29793674455978,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                77.21391872366068,
+                56.63378907523656,
+                76.46600304817314,
+                80.31472900666078,
+                84.75131808840632
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male",
+            "test preparation course_none"
+        ],
+        "mse": 38.29793674455977,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                77.21391872366068,
+                56.63378907523656,
+                76.46600304817314,
+                80.31472900666078,
+                84.75131808840632
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male",
+            "test preparation course_completed"
+        ],
+        "mse": 38.29793674455977,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                77.21391872366068,
+                56.63378907523656,
+                76.46600304817314,
+                80.31472900666078,
+                84.75131808840632
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "race/ethnicity_group D"
+        ],
+        "mse": 38.23745560043325,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.10582015580383,
+                64.73948175042732,
+                75.86400909935634,
+                78.26208091456553,
+                82.9740529170094
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "race/ethnicity_group D"
+        ],
+        "mse": 38.23745560043324,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.10582015580383,
+                64.7394817504273,
+                75.86400909935634,
+                78.26208091456552,
+                82.97405291700939
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "parental level of education_bachelor's degree"
+        ],
+        "mse": 38.159860439374974,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.96464536034537,
+                64.57928483209426,
+                75.55278409942692,
+                78.08235876744533,
+                82.80297718937764
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "parental level of education_bachelor's degree"
+        ],
+        "mse": 38.15986043937497,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                74.96464536034536,
+                64.57928483209426,
+                75.5527840994269,
+                78.08235876744533,
+                82.80297718937764
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male",
+            "lunch_standard"
+        ],
+        "mse": 37.977607631700344,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                77.7753730719943,
+                54.73137872887863,
+                77.25757951576732,
+                76.02572291970144,
+                86.34597024370473
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male",
+            "lunch_free/reduced"
+        ],
+        "mse": 37.977607631700344,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                77.7753730719943,
+                54.73137872887863,
+                77.25757951576732,
+                76.02572291970144,
+                86.34597024370473
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female",
+            "lunch_standard"
+        ],
+        "mse": 37.97760763170034,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                77.77537307199428,
+                54.73137872887862,
+                77.2575795157673,
+                76.02572291970144,
+                86.34597024370473
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female",
+            "lunch_free/reduced"
+        ],
+        "mse": 37.97760763170034,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                77.7753730719943,
+                54.731378728878624,
+                77.2575795157673,
+                76.02572291970144,
+                86.34597024370473
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_male",
+            "race/ethnicity_group E"
+        ],
+        "mse": 37.3686149979359,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.77243232521683,
+                57.05579761942847,
+                75.1353195797746,
+                78.87864652093228,
+                88.98914745030463
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "gender_female",
+            "race/ethnicity_group E"
+        ],
+        "mse": 37.3686149979359,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.77243232521683,
+                57.05579761942847,
+                75.1353195797746,
+                78.87864652093228,
+                88.98914745030463
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "race/ethnicity_group E"
+        ],
+        "mse": 37.14465452416988,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.81553717879272,
+                63.63645623386775,
+                76.02128253121352,
+                76.94665352620669,
+                86.80621372453085
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "race/ethnicity_group E"
+        ],
+        "mse": 37.14465452416988,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                73.81553717879271,
+                63.63645623386774,
+                76.02128253121352,
+                76.94665352620669,
+                86.80621372453083
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "lunch_standard"
+        ],
+        "mse": 36.3552523715282,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.68890016913421,
+                61.830933134840464,
+                77.93679107736071,
+                74.90712302081695,
+                83.35094056623572
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "lunch_free/reduced"
+        ],
+        "mse": 36.3552523715282,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.68890016913421,
+                61.830933134840464,
+                77.93679107736071,
+                74.90712302081697,
+                83.35094056623572
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "lunch_free/reduced"
+        ],
+        "mse": 36.3552523715282,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.68890016913421,
+                61.83093313484045,
+                77.93679107736071,
+                74.90712302081695,
+                83.35094056623572
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "lunch_standard"
+        ],
+        "mse": 36.35525237152819,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.68890016913421,
+                61.83093313484045,
+                77.9367910773607,
+                74.90712302081695,
+                83.3509405662357
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score",
+            "gender_male"
+        ],
+        "mse": 34.09274794653918,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.64433678799888,
+                61.840021027796425,
+                76.70694773454868,
+                78.7389624875688,
+                83.91279244757507
+            ]
+        }
+    },
+    {
+        "features": [
+            "reading score",
+            "writing score",
+            "gender_female"
+        ],
+        "mse": 34.09274794653916,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                75.64433678799887,
+                61.84002102779642,
+                76.70694773454866,
+                78.73896248756878,
+                83.91279244757507
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "test preparation course_none"
+        ],
+        "mse": 33.191248746557015,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.59115598257546,
+                61.76776604500532,
+                78.71011651265759,
+                79.69460904781315,
+                80.62309967273173
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_male",
+            "test preparation course_completed"
+        ],
+        "mse": 33.191248746557015,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.59115598257546,
+                61.76776604500532,
+                78.71011651265759,
+                79.69460904781315,
+                80.62309967273173
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "test preparation course_none"
+        ],
+        "mse": 33.191248746557015,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.59115598257546,
+                61.76776604500532,
+                78.71011651265759,
+                79.69460904781315,
+                80.62309967273173
+            ]
+        }
+    },
+    {
+        "features": [
+            "writing score",
+            "gender_female",
+            "test preparation course_completed"
+        ],
+        "mse": 33.191248746557015,
+        "sample_comparison": {
+            "actual": [
+                91,
+                53,
+                80,
+                74,
+                84
+            ],
+            "predicted": [
+                76.59115598257546,
+                61.767766045005324,
+                78.71011651265759,
+                79.69460904781315,
+                80.62309967273173
+            ]
+        }
+    }
+]
