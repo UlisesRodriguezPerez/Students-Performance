@@ -1,0 +1,1002 @@
+Ridge Regression Analysis
+Max Features: 2
+Features: ('reading score', 'parental level of education_high school'), Alpha: 0.01
+MSE: 77.74499394402035, Mean CV MSE: 76.18536228894486
+Sample Comparison:
+     Actual  Predicted
+521      91  80.426040
+737      53  63.501369
+740      80  69.425004
+660      74  72.809938
+411      84  77.887340
+
+Features: ('reading score', 'parental level of education_high school'), Alpha: 0.1
+MSE: 77.74543999324499, Mean CV MSE: 76.18521321282624
+Sample Comparison:
+     Actual  Predicted
+521      91  80.424543
+737      53  63.501821
+740      80  69.424774
+660      74  72.809318
+411      84  77.886135
+
+Features: ('reading score', 'parental level of education_high school'), Alpha: 1
+MSE: 77.75013065550397, Mean CV MSE: 76.1840642342255
+Sample Comparison:
+     Actual  Predicted
+521      91  80.409594
+737      53  63.506329
+740      80  69.422471
+660      74  72.803124
+411      84  77.874104
+
+Features: ('reading score', 'race/ethnicity_group A'), Alpha: 0.001
+MSE: 77.91870495621036, Mean CV MSE: 76.17609837495507
+Sample Comparison:
+     Actual  Predicted
+521      91  80.403463
+737      53  63.467070
+740      80  69.394808
+660      74  72.782086
+411      84  77.863004
+
+Features: ('reading score', 'race/ethnicity_group A'), Alpha: 0.01
+MSE: 77.91873503328252, Mean CV MSE: 76.17608021152212
+Sample Comparison:
+     Actual  Predicted
+521      91  80.403309
+737      53  63.467107
+740      80  69.394778
+660      74  72.782018
+411      84  77.862879
+
+Features: ('reading score', 'race/ethnicity_group A'), Alpha: 0.1
+MSE: 77.91903806302668, Mean CV MSE: 76.17590196235119
+Sample Comparison:
+     Actual  Predicted
+521      91  80.401766
+737      53  63.467479
+740      80  69.394479
+660      74  72.781337
+411      84  77.861623
+
+Features: ('reading score', 'race/ethnicity_group A'), Alpha: 1
+MSE: 77.92229369412999, Mean CV MSE: 76.17445691393559
+Sample Comparison:
+     Actual  Predicted
+521      91  80.386355
+737      53  63.471192
+740      80  69.391499
+660      74  72.774532
+411      84  77.849080
+
+Features: ('reading score', 'parental level of education_some high school'), Alpha: 10
+MSE: 78.00772724744837, Mean CV MSE: 76.12746838124221
+Sample Comparison:
+     Actual  Predicted
+521      91  80.410249
+737      53  63.717270
+740      80  69.559813
+660      74  72.898408
+411      84  77.906302
+
+Features: ('reading score', "parental level of education_associate's degree"), Alpha: 10
+MSE: 77.81294767387264, Mean CV MSE: 76.12242037478565
+Sample Comparison:
+     Actual  Predicted
+521      91  80.284410
+737      53  63.512682
+740      80  69.364575
+660      74  72.708514
+411      84  77.724423
+
+Features: ('reading score', 'parental level of education_some high school'), Alpha: 0.001
+MSE: 77.93405819468482, Mean CV MSE: 76.11734798768579
+Sample Comparison:
+     Actual  Predicted
+521      91  80.580832
+737      53  63.679041
+740      80  69.594668
+660      74  72.975026
+411      84  78.045563
+
+Features: ('reading score', 'parental level of education_some high school'), Alpha: 0.01
+MSE: 77.93410268723808, Mean CV MSE: 76.1173241565909
+Sample Comparison:
+     Actual  Predicted
+521      91  80.580676
+737      53  63.679076
+740      80  69.594636
+660      74  72.974956
+411      84  78.045436
+
+Features: ('reading score', 'parental level of education_some high school'), Alpha: 0.1
+MSE: 77.93454982905877, Mean CV MSE: 76.11708921241889
+Sample Comparison:
+     Actual  Predicted
+521      91  80.579122
+737      53  63.679424
+740      80  69.594319
+660      74  72.974258
+411      84  78.044168
+
+Features: ('reading score', 'parental level of education_some high school'), Alpha: 1
+MSE: 77.93924231865562, Mean CV MSE: 76.1150753927993
+Sample Comparison:
+     Actual  Predicted
+521      91  80.563601
+737      53  63.682907
+740      80  69.591150
+660      74  72.967289
+411      84  78.031497
+
+Features: ('reading score', "parental level of education_associate's degree"), Alpha: 0.001
+MSE: 77.74104726471255, Mean CV MSE: 76.10516497611448
+Sample Comparison:
+     Actual  Predicted
+521      91  80.439617
+737      53  63.480376
+740      80  69.405694
+660      74  72.791590
+411      84  77.870434
+
+Features: ('reading score', "parental level of education_associate's degree"), Alpha: 0.01
+MSE: 77.74108970053047, Mean CV MSE: 76.10514758178908
+Sample Comparison:
+     Actual  Predicted
+521      91  80.439475
+737      53  63.480405
+740      80  69.405657
+660      74  72.791514
+411      84  77.870301
+
+Features: ('reading score', "parental level of education_associate's degree"), Alpha: 0.1
+MSE: 77.7415163227683, Mean CV MSE: 76.1049770044676
+Sample Comparison:
+     Actual  Predicted
+521      91  80.438063
+737      53  63.480699
+740      80  69.405281
+660      74  72.790757
+411      84  77.868970
+
+Features: ('reading score', "parental level of education_associate's degree"), Alpha: 1
+MSE: 77.74600837593349, Mean CV MSE: 76.1036067625167
+Sample Comparison:
+     Actual  Predicted
+521      91  80.423954
+737      53  63.483634
+740      80  69.401534
+660      74  72.783190
+411      84  77.855675
+
+Features: ('reading score',), Alpha: 10
+MSE: 77.84512952323047, Mean CV MSE: 76.07664174630195
+Sample Comparison:
+     Actual  Predicted
+521      91  80.245556
+737      53  63.523992
+740      80  69.376539
+660      74  72.720852
+411      84  77.737321
+
+Features: ('reading score',), Alpha: 0.001
+MSE: 77.75954595019223, Mean CV MSE: 76.06020738548422
+Sample Comparison:
+     Actual  Predicted
+521      91  80.417404
+737      53  63.486843
+740      80  69.412539
+660      74  72.798652
+411      84  77.877820
+
+Features: ('reading score',), Alpha: 0.01
+MSE: 77.75960107585831, Mean CV MSE: 76.06018934210157
+Sample Comparison:
+     Actual  Predicted
+521      91  80.417248
+737      53  63.486876
+740      80  69.412506
+660      74  72.798581
+411      84  77.877692
+
+Features: ('reading score',), Alpha: 0.1
+MSE: 77.76015455840978, Mean CV MSE: 76.06001226421228
+Sample Comparison:
+     Actual  Predicted
+521      91  80.415682
+737      53  63.487215
+740      80  69.412178
+660      74  72.797872
+411      84  77.876412
+
+Features: ('reading score',), Alpha: 1
+MSE: 77.76591140958324, Mean CV MSE: 76.05857602846712
+Sample Comparison:
+     Actual  Predicted
+521      91  80.400042
+737      53  63.490596
+740      80  69.408902
+660      74  72.790791
+411      84  77.863625
+
+Features: ('reading score', "parental level of education_master's degree"), Alpha: 10
+MSE: 78.0367160690732, Mean CV MSE: 75.95519509703904
+Sample Comparison:
+     Actual  Predicted
+521      91  80.400290
+737      53  63.634641
+740      80  69.502618
+660      74  72.855748
+411      84  77.885442
+
+Features: ('reading score', "parental level of education_master's degree"), Alpha: 0.001
+MSE: 77.93688496489638, Mean CV MSE: 75.93914461021733
+Sample Comparison:
+     Actual  Predicted
+521      91  80.577926
+737      53  63.601194
+740      80  69.543050
+660      74  72.938397
+411      84  78.031416
+
+Features: ('reading score', "parental level of education_master's degree"), Alpha: 0.01
+MSE: 77.9369534826544, Mean CV MSE: 75.93912570073302
+Sample Comparison:
+     Actual  Predicted
+521      91  80.577764
+737      53  63.601224
+740      80  69.543013
+660      74  72.938321
+411      84  78.031283
+
+Features: ('reading score', "parental level of education_master's degree"), Alpha: 0.1
+MSE: 77.93764082873825, Mean CV MSE: 75.93894001647341
+Sample Comparison:
+     Actual  Predicted
+521      91  80.576145
+737      53  63.601529
+740      80  69.542645
+660      74  72.937568
+411      84  78.029952
+
+Features: ('reading score', "parental level of education_master's degree"), Alpha: 1
+MSE: 77.94473058771271, Mean CV MSE: 75.9374231497166
+Sample Comparison:
+     Actual  Predicted
+521      91  80.559974
+737      53  63.604571
+740      80  69.538962
+660      74  72.930042
+411      84  78.016663
+
+Features: ('reading score', 'race/ethnicity_group B'), Alpha: 10
+MSE: 77.59651167478754, Mean CV MSE: 75.92833634702117
+Sample Comparison:
+     Actual  Predicted
+521      91  80.460164
+737      53  62.423682
+740      80  69.629128
+660      74  72.961754
+411      84  77.960694
+
+Features: ('reading score', 'race/ethnicity_group B'), Alpha: 0.001
+MSE: 77.49476844941918, Mean CV MSE: 75.90853762876975
+Sample Comparison:
+     Actual  Predicted
+521      91  80.629354
+737      53  62.397242
+740      80  69.662574
+660      74  73.036968
+411      84  78.098559
+
+Features: ('reading score', 'race/ethnicity_group B'), Alpha: 0.01
+MSE: 77.49483830062871, Mean CV MSE: 75.90852288085605
+Sample Comparison:
+     Actual  Predicted
+521      91  80.629200
+737      53  62.397266
+740      80  69.662544
+660      74  73.036899
+411      84  78.098433
+
+Features: ('reading score', 'race/ethnicity_group B'), Alpha: 0.1
+MSE: 77.49553902121012, Mean CV MSE: 75.90837873116658
+Sample Comparison:
+     Actual  Predicted
+521      91  80.627659
+737      53  62.397504
+740      80  69.662239
+660      74  73.036215
+411      84  78.097178
+
+Features: ('reading score', 'race/ethnicity_group B'), Alpha: 1
+MSE: 77.5027665071711, Mean CV MSE: 75.90726912817101
+Sample Comparison:
+     Actual  Predicted
+521      91  80.612265
+737      53  62.399886
+740      80  69.659201
+660      74  73.029375
+411      84  78.084635
+
+Features: ('reading score', 'parental level of education_some college'), Alpha: 10
+MSE: 78.46555802061978, Mean CV MSE: 75.88819401034476
+Sample Comparison:
+     Actual  Predicted
+521      91  79.925625
+737      53  64.609487
+740      80  69.056823
+660      74  73.806165
+411      84  78.822535
+
+Features: ('reading score', 'parental level of education_some college'), Alpha: 0.001
+MSE: 78.40140869635695, Mean CV MSE: 75.8755880522707
+Sample Comparison:
+     Actual  Predicted
+521      91  80.093505
+737      53  64.585791
+740      80  69.088860
+660      74  73.897414
+411      84  78.976481
+
+Features: ('reading score', 'parental level of education_some college'), Alpha: 0.01
+MSE: 78.40144413722489, Mean CV MSE: 75.87556624068526
+Sample Comparison:
+     Actual  Predicted
+521      91  80.093352
+737      53  64.585813
+740      80  69.088831
+660      74  73.897331
+411      84  78.976341
+
+Features: ('reading score', 'parental level of education_some college'), Alpha: 0.1
+MSE: 78.40180081130914, Mean CV MSE: 75.87535151396379
+Sample Comparison:
+     Actual  Predicted
+521      91  80.091822
+737      53  64.586029
+740      80  69.088539
+660      74  73.896499
+411      84  78.974938
+
+Features: ('reading score', 'parental level of education_some college'), Alpha: 1
+MSE: 78.40559352243848, Mean CV MSE: 75.87354209642169
+Sample Comparison:
+     Actual  Predicted
+521      91  80.076544
+737      53  64.588185
+740      80  69.085623
+660      74  73.888195
+411      84  78.960927
+
+Features: ('reading score', 'race/ethnicity_group E'), Alpha: 100
+MSE: 77.1445636170556, Mean CV MSE: 75.60724554782367
+Sample Comparison:
+     Actual  Predicted
+521      91  77.941922
+737      53  63.148034
+740      80  68.325895
+660      74  71.284673
+411      84  80.678715
+
+Features: ('reading score', 'writing score'), Alpha: 100
+MSE: 78.91829318557826, Mean CV MSE: 75.58009319224989
+Sample Comparison:
+     Actual  Predicted
+521      91  79.210102
+737      53  66.518045
+740      80  69.260408
+660      74  71.378236
+411      84  75.781679
+
+Features: ('reading score', 'race/ethnicity_group C'), Alpha: 10
+MSE: 76.54252199331592, Mean CV MSE: 75.41260233362759
+Sample Comparison:
+     Actual  Predicted
+521      91  78.731664
+737      53  64.249331
+740      80  70.096149
+660      74  71.214328
+411      84  78.448745
+
+Features: ('reading score', 'race/ethnicity_group C'), Alpha: 0.001
+MSE: 76.43997373243482, Mean CV MSE: 75.40258525107043
+Sample Comparison:
+     Actual  Predicted
+521      91  78.886943
+737      53  64.220076
+740      80  70.139909
+660      74  71.275730
+411      84  78.596812
+
+Features: ('reading score', 'race/ethnicity_group C'), Alpha: 0.01
+MSE: 76.4400443865853, Mean CV MSE: 75.40256112274747
+Sample Comparison:
+     Actual  Predicted
+521      91  78.886802
+737      53  64.220103
+740      80  70.139869
+660      74  71.275674
+411      84  78.596678
+
+Features: ('reading score', 'race/ethnicity_group C'), Alpha: 0.1
+MSE: 76.44075312787577, Mean CV MSE: 75.40232322689982
+Sample Comparison:
+     Actual  Predicted
+521      91  78.885387
+737      53  64.220370
+740      80  70.139470
+660      74  71.275114
+411      84  78.595328
+
+Features: ('reading score', 'race/ethnicity_group C'), Alpha: 1
+MSE: 76.44805996071057, Mean CV MSE: 75.40028194736286
+Sample Comparison:
+     Actual  Predicted
+521      91  78.871252
+737      53  64.223033
+740      80  70.135489
+660      74  71.269524
+411      84  78.581854
+
+Features: ('reading score', 'writing score'), Alpha: 0.001
+MSE: 77.24300081479794, Mean CV MSE: 74.66858701201753
+Sample Comparison:
+     Actual  Predicted
+521      91  80.185511
+737      53  65.684983
+740      80  69.442107
+660      74  72.016094
+411      84  76.828253
+
+Features: ('reading score', 'writing score'), Alpha: 0.01
+MSE: 77.24320422466279, Mean CV MSE: 74.66854301576848
+Sample Comparison:
+     Actual  Predicted
+521      91  80.185376
+737      53  65.685275
+740      80  69.442088
+660      74  72.015950
+411      84  76.828038
+
+Features: ('reading score', 'writing score'), Alpha: 0.1
+MSE: 77.2452375046107, Mean CV MSE: 74.66810962187442
+Sample Comparison:
+     Actual  Predicted
+521      91  80.184029
+737      53  65.688190
+740      80  69.441901
+660      74  72.014512
+411      84  76.825886
+
+Features: ('reading score', 'writing score'), Alpha: 10
+MSE: 77.45656498165954, Mean CV MSE: 74.6671293232038
+Sample Comparison:
+     Actual  Predicted
+521      91  80.050268
+737      53  65.937697
+740      80  69.421905
+660      74  71.884372
+411      84  76.628210
+
+Features: ('reading score', 'writing score'), Alpha: 1
+MSE: 77.2654829746764, Mean CV MSE: 74.66439825498517
+Sample Comparison:
+     Actual  Predicted
+521      91  80.170718
+737      53  65.716541
+740      80  69.440040
+660      74  72.000451
+411      84  76.804804
+
+Features: ('writing score', 'lunch_standard'), Alpha: 10
+MSE: 82.51169460809561, Mean CV MSE: 74.58661664051667
+Sample Comparison:
+     Actual  Predicted
+521      91  79.934329
+737      53  66.409619
+740      80  70.981472
+660      74  66.409619
+411      84  75.457900
+
+Features: ('writing score', 'lunch_free/reduced'), Alpha: 10
+MSE: 82.51169460809561, Mean CV MSE: 74.58661664051667
+Sample Comparison:
+     Actual  Predicted
+521      91  79.934329
+737      53  66.409619
+740      80  70.981472
+660      74  66.409619
+411      84  75.457900
+
+Features: ('writing score', 'lunch_standard'), Alpha: 0.001
+MSE: 82.39156113123576, Mean CV MSE: 74.57244809670343
+Sample Comparison:
+     Actual  Predicted
+521      91  80.076794
+737      53  66.459840
+740      80  71.010915
+660      74  66.459840
+411      84  75.543854
+
+Features: ('writing score', 'lunch_free/reduced'), Alpha: 0.001
+MSE: 82.39156113123576, Mean CV MSE: 74.57244809670343
+Sample Comparison:
+     Actual  Predicted
+521      91  80.076794
+737      53  66.459840
+740      80  71.010915
+660      74  66.459840
+411      84  75.543854
+
+Features: ('writing score', 'lunch_standard'), Alpha: 0.01
+MSE: 82.39165135161147, Mean CV MSE: 74.57243224518228
+Sample Comparison:
+     Actual  Predicted
+521      91  80.076664
+737      53  66.459794
+740      80  71.010889
+660      74  66.459794
+411      84  75.543776
+
+Features: ('writing score', 'lunch_free/reduced'), Alpha: 0.01
+MSE: 82.39165135161149, Mean CV MSE: 74.57243224518228
+Sample Comparison:
+     Actual  Predicted
+521      91  80.076664
+737      53  66.459794
+740      80  71.010889
+660      74  66.459794
+411      84  75.543776
+
+Features: ('writing score', 'lunch_standard'), Alpha: 0.1
+MSE: 82.39255537768136, Mean CV MSE: 74.57227665556834
+Sample Comparison:
+     Actual  Predicted
+521      91  80.075368
+737      53  66.459330
+740      80  71.010623
+660      74  66.459330
+411      84  75.542995
+
+Features: ('writing score', 'lunch_free/reduced'), Alpha: 0.1
+MSE: 82.39255537768139, Mean CV MSE: 74.57227665556834
+Sample Comparison:
+     Actual  Predicted
+521      91  80.075368
+737      53  66.459330
+740      80  71.010623
+660      74  66.459330
+411      84  75.542995
+
+Features: ('writing score', 'lunch_standard'), Alpha: 1
+MSE: 82.40177738232586, Mean CV MSE: 74.57101238026696
+Sample Comparison:
+     Actual  Predicted
+521      91  80.062419
+737      53  66.454700
+740      80  71.007970
+660      74  66.454700
+411      84  75.535195
+
+Features: ('writing score', 'lunch_free/reduced'), Alpha: 1
+MSE: 82.40177738232588, Mean CV MSE: 74.57101238026696
+Sample Comparison:
+     Actual  Predicted
+521      91  80.062419
+737      53  66.454700
+740      80  71.007970
+660      74  66.454700
+411      84  75.535195
+
+Features: ('reading score', 'race/ethnicity_group E'), Alpha: 10
+MSE: 74.39533075489577, Mean CV MSE: 73.1059523873932
+Sample Comparison:
+     Actual  Predicted
+521      91  79.263506
+737      53  62.834800
+740      80  68.584847
+660      74  71.870588
+411      84  81.911252
+
+Features: ('reading score', 'race/ethnicity_group E'), Alpha: 0.001
+MSE: 74.27001456535214, Mean CV MSE: 73.0928607148322
+Sample Comparison:
+     Actual  Predicted
+521      91  79.429662
+737      53  62.796426
+740      80  68.618058
+660      74  71.944706
+411      84  82.060654
+
+Features: ('reading score', 'race/ethnicity_group E'), Alpha: 0.01
+MSE: 74.27010669345071, Mean CV MSE: 73.09284062419681
+Sample Comparison:
+     Actual  Predicted
+521      91  79.429510
+737      53  62.796460
+740      80  68.618028
+660      74  71.944638
+411      84  82.060518
+
+Features: ('reading score', 'race/ethnicity_group E'), Alpha: 0.1
+MSE: 74.27103007504671, Mean CV MSE: 73.09264297502527
+Sample Comparison:
+     Actual  Predicted
+521      91  79.427995
+737      53  62.796809
+740      80  68.617724
+660      74  71.943962
+411      84  82.059161
+
+Features: ('reading score', 'race/ethnicity_group E'), Alpha: 1
+MSE: 74.28047341358148, Mean CV MSE: 73.09099118653175
+Sample Comparison:
+     Actual  Predicted
+521      91  79.412865
+737      53  62.800295
+740      80  68.614694
+660      74  71.937208
+411      84  82.045606
+
+Features: ('reading score', 'lunch_standard'), Alpha: 100
+MSE: 76.69809508529525, Mean CV MSE: 71.36898628197943
+Sample Comparison:
+     Actual  Predicted
+521      91  80.195054
+737      53  60.232966
+740      80  70.927186
+660      74  68.075008
+411      84  78.056315
+
+Features: ('reading score', 'lunch_free/reduced'), Alpha: 100
+MSE: 76.69809508529525, Mean CV MSE: 71.36898628197943
+Sample Comparison:
+     Actual  Predicted
+521      91  80.195054
+737      53  60.232966
+740      80  70.927186
+660      74  68.075008
+411      84  78.056315
+
+Features: ('reading score', 'lunch_standard'), Alpha: 10
+MSE: 74.23279283074022, Mean CV MSE: 69.07329475085778
+Sample Comparison:
+     Actual  Predicted
+521      91  81.514082
+737      53  59.904638
+740      80  71.223924
+660      74  68.611695
+411      84  79.139430
+
+Features: ('reading score', 'lunch_free/reduced'), Alpha: 10
+MSE: 74.23279283074022, Mean CV MSE: 69.07329475085778
+Sample Comparison:
+     Actual  Predicted
+521      91  81.514082
+737      53  59.904638
+740      80  71.223924
+660      74  68.611695
+411      84  79.139430
+
+Features: ('reading score', 'lunch_standard'), Alpha: 0.001
+MSE: 74.12160204226393, Mean CV MSE: 69.0656975318523
+Sample Comparison:
+     Actual  Predicted
+521      91  81.677008
+737      53  59.868806
+740      80  71.258344
+660      74  68.684599
+411      84  79.272701
+
+Features: ('reading score', 'lunch_free/reduced'), Alpha: 0.001
+MSE: 74.12160204226393, Mean CV MSE: 69.0656975318523
+Sample Comparison:
+     Actual  Predicted
+521      91  81.677008
+737      53  59.868806
+740      80  71.258344
+660      74  68.684599
+411      84  79.272701
+
+Features: ('reading score', 'lunch_standard'), Alpha: 0.01
+MSE: 74.12168347348323, Mean CV MSE: 69.06567459506446
+Sample Comparison:
+     Actual  Predicted
+521      91  81.676860
+737      53  59.868838
+740      80  71.258312
+660      74  68.684532
+411      84  79.272580
+
+Features: ('reading score', 'lunch_free/reduced'), Alpha: 0.01
+MSE: 74.12168347348323, Mean CV MSE: 69.06567459506446
+Sample Comparison:
+     Actual  Predicted
+521      91  81.676860
+737      53  59.868838
+740      80  71.258312
+660      74  68.684532
+411      84  79.272580
+
+Features: ('reading score', 'lunch_standard'), Alpha: 0.1
+MSE: 74.12249968143554, Mean CV MSE: 69.06544827057216
+Sample Comparison:
+     Actual  Predicted
+521      91  81.675377
+737      53  59.869160
+740      80  71.258002
+660      74  68.683862
+411      84  79.271368
+
+Features: ('reading score', 'lunch_free/reduced'), Alpha: 0.1
+MSE: 74.12249968143554, Mean CV MSE: 69.06544827057216
+Sample Comparison:
+     Actual  Predicted
+521      91  81.675377
+737      53  59.869160
+740      80  71.258002
+660      74  68.683862
+411      84  79.271368
+
+Features: ('reading score', 'lunch_standard'), Alpha: 1
+MSE: 74.13085084875219, Mean CV MSE: 69.06348840746132
+Sample Comparison:
+     Actual  Predicted
+521      91  81.660566
+737      53  59.872373
+740      80  71.254893
+660      74  68.677174
+411      84  79.259257
+
+Features: ('reading score', 'lunch_free/reduced'), Alpha: 1
+MSE: 74.13085084875219, Mean CV MSE: 69.06348840746132
+Sample Comparison:
+     Actual  Predicted
+521      91  81.660566
+737      53  59.872373
+740      80  71.254893
+660      74  68.677174
+411      84  79.259257
+
+Features: ('reading score', 'gender_male'), Alpha: 100
+MSE: 43.36163348150781, Mean CV MSE: 49.13879016344614
+Sample Comparison:
+     Actual  Predicted
+521      91  75.583850
+737      53  59.026547
+740      80  74.376521
+660      74  77.687981
+411      84  82.655172
+
+Features: ('reading score', 'gender_female'), Alpha: 100
+MSE: 43.36163348150781, Mean CV MSE: 49.13879016344614
+Sample Comparison:
+     Actual  Predicted
+521      91  75.583850
+737      53  59.026547
+740      80  74.376521
+660      74  77.687981
+411      84  82.655172
+
+Features: ('writing score', 'gender_male'), Alpha: 100
+MSE: 43.127321622214666, Mean CV MSE: 45.26591328875885
+Sample Comparison:
+     Actual  Predicted
+521      91  73.937775
+737      53  65.019637
+740      80  75.101587
+660      74  75.912327
+411      84  79.966026
+
+Features: ('writing score', 'gender_female'), Alpha: 100
+MSE: 43.127321622214666, Mean CV MSE: 45.26591328875885
+Sample Comparison:
+     Actual  Predicted
+521      91  73.937775
+737      53  65.019637
+740      80  75.101587
+660      74  75.912327
+411      84  79.966026
+
+Features: ('reading score', 'gender_male'), Alpha: 10
+MSE: 39.38666664841969, Mean CV MSE: 44.54910564914336
+Sample Comparison:
+     Actual  Predicted
+521      91  76.484562
+737      53  57.761953
+740      80  75.726694
+660      74  79.471215
+411      84  85.087998
+
+Features: ('reading score', 'gender_female'), Alpha: 10
+MSE: 39.38666664841969, Mean CV MSE: 44.54910564914336
+Sample Comparison:
+     Actual  Predicted
+521      91  76.484562
+737      53  57.761953
+740      80  75.726694
+660      74  79.471215
+411      84  85.087998
+
+Features: ('reading score', 'gender_male'), Alpha: 0.001
+MSE: 39.30070317297823, Mean CV MSE: 44.50714341263556
+Sample Comparison:
+     Actual  Predicted
+521      91  76.596382
+737      53  57.596110
+740      80  75.903918
+660      74  79.703973
+411      84  85.404055
+
+Features: ('reading score', 'gender_female'), Alpha: 0.001
+MSE: 39.30070317297823, Mean CV MSE: 44.50714341263556
+Sample Comparison:
+     Actual  Predicted
+521      91  76.596382
+737      53  57.596110
+740      80  75.903918
+660      74  79.703973
+411      84  85.404055
+
+Features: ('reading score', 'gender_male'), Alpha: 0.01
+MSE: 39.300737179454146, Mean CV MSE: 44.50712013070192
+Sample Comparison:
+     Actual  Predicted
+521      91  76.596281
+737      53  57.596262
+740      80  75.903756
+660      74  79.703760
+411      84  85.403765
+
+Features: ('reading score', 'gender_female'), Alpha: 0.01
+MSE: 39.300737179454146, Mean CV MSE: 44.50712013070192
+Sample Comparison:
+     Actual  Predicted
+521      91  76.596281
+737      53  57.596262
+740      80  75.903756
+660      74  79.703760
+411      84  85.403765
+
+Features: ('reading score', 'gender_male'), Alpha: 0.1
+MSE: 39.30108168206177, Mean CV MSE: 44.50689360719167
+Sample Comparison:
+     Actual  Predicted
+521      91  76.595262
+737      53  57.597781
+740      80  75.902132
+660      74  79.701629
+411      84  85.400873
+
+Features: ('reading score', 'gender_female'), Alpha: 0.1
+MSE: 39.30108168206177, Mean CV MSE: 44.50689360719167
+Sample Comparison:
+     Actual  Predicted
+521      91  76.595262
+737      53  57.597781
+740      80  75.902132
+660      74  79.701629
+411      84  85.400873
+
+Features: ('reading score', 'gender_male'), Alpha: 1
+MSE: 39.30496904797619, Mean CV MSE: 44.50525540664869
+Sample Comparison:
+     Actual  Predicted
+521      91  76.585092
+737      53  57.612947
+740      80  75.885925
+660      74  79.680354
+411      84  85.371997
+
+Features: ('reading score', 'gender_female'), Alpha: 1
+MSE: 39.30496904797619, Mean CV MSE: 44.50525540664869
+Sample Comparison:
+     Actual  Predicted
+521      91  76.585092
+737      53  57.612947
+740      80  75.885925
+660      74  79.680354
+411      84  85.371997
+
+Features: ('writing score', 'gender_male'), Alpha: 10
+MSE: 38.66729314728673, Mean CV MSE: 39.87574154014603
+Sample Comparison:
+     Actual  Predicted
+521      91  74.624515
+737      53  64.460057
+740      80  76.696559
+660      74  77.620601
+411      84  82.240809
+
+Features: ('writing score', 'gender_female'), Alpha: 10
+MSE: 38.66729314728673, Mean CV MSE: 39.87574154014603
+Sample Comparison:
+     Actual  Predicted
+521      91  74.624515
+737      53  64.460057
+740      80  76.696559
+660      74  77.620601
+411      84  82.240809
+
+Features: ('writing score', 'gender_male'), Alpha: 0.001
+MSE: 38.581892965381016, Mean CV MSE: 39.81697600189022
+Sample Comparison:
+     Actual  Predicted
+521      91  74.709201
+737      53  64.383107
+740      80  76.908274
+660      74  77.847010
+411      84  82.540689
+
+Features: ('writing score', 'gender_female'), Alpha: 0.001
+MSE: 38.581892965381016, Mean CV MSE: 39.81697600189022
+Sample Comparison:
+     Actual  Predicted
+521      91  74.709201
+737      53  64.383107
+740      80  76.908274
+660      74  77.847010
+411      84  82.540689
+
+Features: ('writing score', 'gender_male'), Alpha: 0.01
+MSE: 38.581918575023764, Mean CV MSE: 39.81695625486063
+Sample Comparison:
+     Actual  Predicted
+521      91  74.709124
+737      53  64.383178
+740      80  76.908080
+660      74  77.846802
+411      84  82.540414
+
+Features: ('writing score', 'gender_female'), Alpha: 0.01
+MSE: 38.581918575023764, Mean CV MSE: 39.81695625486063
+Sample Comparison:
+     Actual  Predicted
+521      91  74.709124
+737      53  64.383178
+740      80  76.908080
+660      74  77.846802
+411      84  82.540414
+
+Features: ('writing score', 'gender_male'), Alpha: 0.1
+MSE: 38.58217993124157, Mean CV MSE: 39.81676630190336
+Sample Comparison:
+     Actual  Predicted
+521      91  74.708353
+737      53  64.383886
+740      80  76.906138
+660      74  77.844726
+411      84  82.537665
+
+Features: ('writing score', 'gender_female'), Alpha: 0.1
+MSE: 38.58217993124157, Mean CV MSE: 39.81676630190336
+Sample Comparison:
+     Actual  Predicted
+521      91  74.708353
+737      53  64.383886
+740      80  76.906138
+660      74  77.844726
+411      84  82.537665
+
+Features: ('writing score', 'gender_male'), Alpha: 1
+MSE: 38.58531761053724, Mean CV MSE: 39.815615193047186
+Sample Comparison:
+     Actual  Predicted
+521      91  74.700655
+737      53  64.390955
+740      80  76.886754
+660      74  77.823999
+411      84  82.510227
+
+Features: ('writing score', 'gender_female'), Alpha: 1
+MSE: 38.58531761053724, Mean CV MSE: 39.815615193047186
+Sample Comparison:
+     Actual  Predicted
+521      91  74.700655
+737      53  64.390955
+740      80  76.886754
+660      74  77.823999
+411      84  82.510227
+
